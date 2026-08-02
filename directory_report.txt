@@ -1,0 +1,1022 @@
+DIRECTORY ANALYSIS REPORT
+Target Path: D:\BPIT
+============================================================
+
+📂 Folders (145 items)
+----------------------------------------
+  [DIR]  New folder
+  [DIR]  Semester-2
+  [DIR]  Semester-2\AC
+  [DIR]  Semester-2\AC\Analysis
+  [DIR]  Semester-2\AC\Important things
+  [DIR]  Semester-2\AC\L-2
+  [DIR]  Semester-2\AC\Learning
+  [DIR]  Semester-2\AC\Learning\Lime Soda -2
+  [DIR]  Semester-2\AC\Learning\Lime Sodas
+  [DIR]  Semester-2\AC\papers
+  [DIR]  Semester-2\AM-II
+  [DIR]  Semester-2\AM-II\Assignments
+  [DIR]  Semester-2\AP - II
+  [DIR]  Semester-2\AP - II\Crystals structures
+  [DIR]  Semester-2\AP - II\Imp work
+  [DIR]  Semester-2\AP - II\IMportant photos
+  [DIR]  Semester-2\AP - II\Papers
+  [DIR]  Semester-2\CS
+  [DIR]  Semester-2\EG-II
+  [DIR]  Semester-2\EG-II\imp videos
+  [DIR]  Semester-2\EM
+  [DIR]  Semester-2\ES
+  [DIR]  Semester-2\ES\Practical
+  [DIR]  Semester-2\ES\Transform
+  [DIR]  Semester-2\ES\Transform\No load
+  [DIR]  Semester-2\ES\Transform\ON load
+  [DIR]  Semester-2\Not needed as much
+  [DIR]  Semester-2\PDP
+  [DIR]  Semester-2\Smart Study technique
+  [DIR]  Semester-3
+  [DIR]  Semester-3\DLCD
+  [DIR]  Semester-3\IKS
+  [DIR]  Semester-3\OOPS
+  [DIR]  Semester-I
+  [DIR]  Semester-I\AP
+  [DIR]  Semester-I\AP\25-09-13 Untitled.pdf
+  [DIR]  Semester-I\AP\Assignment
+  [DIR]  Semester-I\AP\Doubts
+  [DIR]  Semester-I\AP\Practical
+  [DIR]  Semester-I\AP\PYQ IPU.pdf
+  [DIR]  Semester-I\EG
+  [DIR]  Semester-I\EVS
+  [DIR]  Semester-I\EVS\EVS( mid sem -1)
+  [DIR]  Semester-I\HVE
+  [DIR]  Semester-I\HVE\HVE Project
+  [DIR]  Semester-I\MP
+  [DIR]  Semester-I\MP\Exam prep
+  [DIR]  Semester-I\Programming in C
+  [DIR]  Semester-I\Programming in C\C ChapterWise Notes
+  [DIR]  Semester-I\Programming in C\C ChapterWise Notes\Chapter 0 - Introduction
+  [DIR]  Semester-I\Programming in C\C ChapterWise Notes\Chapter 1
+  [DIR]  Semester-I\Programming in C\C ChapterWise Notes\Chapter 10
+  [DIR]  Semester-I\Programming in C\C ChapterWise Notes\Chapter 11
+  [DIR]  Semester-I\Programming in C\C ChapterWise Notes\Chapter 2
+  [DIR]  Semester-I\Programming in C\C ChapterWise Notes\Chapter 3
+  [DIR]  Semester-I\Programming in C\C ChapterWise Notes\Chapter 4
+  [DIR]  Semester-I\Programming in C\C ChapterWise Notes\Chapter 5
+  [DIR]  Semester-I\Programming in C\C ChapterWise Notes\Chapter 6
+  [DIR]  Semester-I\Programming in C\C ChapterWise Notes\Chapter 7
+  [DIR]  Semester-I\Programming in C\C ChapterWise Notes\Chapter 8
+  [DIR]  Semester-I\Programming in C\C ChapterWise Notes\Chapter 9
+  [DIR]  Semester-I\Programming in C\C ChapterWise Notes\Project 1
+  [DIR]  Semester-I\Programming in C\C ChapterWise Notes\Project 2
+  [DIR]  Semester-I\Programming in C\C_notes
+  [DIR]  Semester-I\Programming in C\Doubts
+  [DIR]  Semester-I\Programming in C\Papers
+  [DIR]  Semester-I\Programming in C\v0.69.0 source code
+  [DIR]  Semester-I\Programming in C\v0.69.0 source code\Upsonic-Upsonic-4c81605
+  [DIR]  Semester-I\Programming in C\v0.69.0 source code\Upsonic-Upsonic-4c81605\notebooks
+  [DIR]  Semester-I\Programming in C\v0.69.0 source code\Upsonic-Upsonic-4c81605\src
+  [DIR]  Semester-I\Programming in C\v0.69.0 source code\Upsonic-Upsonic-4c81605\src\upsonic
+  [DIR]  Semester-I\Programming in C\v0.69.0 source code\Upsonic-Upsonic-4c81605\src\upsonic\agent
+  [DIR]  Semester-I\Programming in C\v0.69.0 source code\Upsonic-Upsonic-4c81605\src\upsonic\agent\context_managers
+  [DIR]  Semester-I\Programming in C\v0.69.0 source code\Upsonic-Upsonic-4c81605\src\upsonic\agent\deepagent
+  [DIR]  Semester-I\Programming in C\v0.69.0 source code\Upsonic-Upsonic-4c81605\src\upsonic\agent\deepagent\backends
+  [DIR]  Semester-I\Programming in C\v0.69.0 source code\Upsonic-Upsonic-4c81605\src\upsonic\agent\deepagent\tools
+  [DIR]  Semester-I\Programming in C\v0.69.0 source code\Upsonic-Upsonic-4c81605\src\upsonic\agent\pipeline
+  [DIR]  Semester-I\Programming in C\v0.69.0 source code\Upsonic-Upsonic-4c81605\src\upsonic\cache
+  [DIR]  Semester-I\Programming in C\v0.69.0 source code\Upsonic-Upsonic-4c81605\src\upsonic\canvas
+  [DIR]  Semester-I\Programming in C\v0.69.0 source code\Upsonic-Upsonic-4c81605\src\upsonic\chat
+  [DIR]  Semester-I\Programming in C\v0.69.0 source code\Upsonic-Upsonic-4c81605\src\upsonic\cli
+  [DIR]  Semester-I\Programming in C\v0.69.0 source code\Upsonic-Upsonic-4c81605\src\upsonic\cli\commands
+  [DIR]  Semester-I\Programming in C\v0.69.0 source code\Upsonic-Upsonic-4c81605\src\upsonic\cli\commands\add
+  [DIR]  Semester-I\Programming in C\v0.69.0 source code\Upsonic-Upsonic-4c81605\src\upsonic\cli\commands\init
+  [DIR]  Semester-I\Programming in C\v0.69.0 source code\Upsonic-Upsonic-4c81605\src\upsonic\cli\commands\install
+  [DIR]  Semester-I\Programming in C\v0.69.0 source code\Upsonic-Upsonic-4c81605\src\upsonic\cli\commands\remove
+  [DIR]  Semester-I\Programming in C\v0.69.0 source code\Upsonic-Upsonic-4c81605\src\upsonic\cli\commands\run
+  [DIR]  Semester-I\Programming in C\v0.69.0 source code\Upsonic-Upsonic-4c81605\src\upsonic\cli\commands\shared
+  [DIR]  Semester-I\Programming in C\v0.69.0 source code\Upsonic-Upsonic-4c81605\src\upsonic\cli\commands\zip
+  [DIR]  Semester-I\Programming in C\v0.69.0 source code\Upsonic-Upsonic-4c81605\src\upsonic\context
+  [DIR]  Semester-I\Programming in C\v0.69.0 source code\Upsonic-Upsonic-4c81605\src\upsonic\db
+  [DIR]  Semester-I\Programming in C\v0.69.0 source code\Upsonic-Upsonic-4c81605\src\upsonic\durable
+  [DIR]  Semester-I\Programming in C\v0.69.0 source code\Upsonic-Upsonic-4c81605\src\upsonic\durable\storages
+  [DIR]  Semester-I\Programming in C\v0.69.0 source code\Upsonic-Upsonic-4c81605\src\upsonic\embeddings
+  [DIR]  Semester-I\Programming in C\v0.69.0 source code\Upsonic-Upsonic-4c81605\src\upsonic\eval
+  [DIR]  Semester-I\Programming in C\v0.69.0 source code\Upsonic-Upsonic-4c81605\src\upsonic\graph
+  [DIR]  Semester-I\Programming in C\v0.69.0 source code\Upsonic-Upsonic-4c81605\src\upsonic\graphv2
+  [DIR]  Semester-I\Programming in C\v0.69.0 source code\Upsonic-Upsonic-4c81605\src\upsonic\interfaces
+  [DIR]  Semester-I\Programming in C\v0.69.0 source code\Upsonic-Upsonic-4c81605\src\upsonic\interfaces\gmail
+  [DIR]  Semester-I\Programming in C\v0.69.0 source code\Upsonic-Upsonic-4c81605\src\upsonic\interfaces\slack
+  [DIR]  Semester-I\Programming in C\v0.69.0 source code\Upsonic-Upsonic-4c81605\src\upsonic\interfaces\whatsapp
+  [DIR]  Semester-I\Programming in C\v0.69.0 source code\Upsonic-Upsonic-4c81605\src\upsonic\knowledge_base
+  [DIR]  Semester-I\Programming in C\v0.69.0 source code\Upsonic-Upsonic-4c81605\src\upsonic\loaders
+  [DIR]  Semester-I\Programming in C\v0.69.0 source code\Upsonic-Upsonic-4c81605\src\upsonic\memory
+  [DIR]  Semester-I\Programming in C\v0.69.0 source code\Upsonic-Upsonic-4c81605\src\upsonic\messages
+  [DIR]  Semester-I\Programming in C\v0.69.0 source code\Upsonic-Upsonic-4c81605\src\upsonic\models
+  [DIR]  Semester-I\Programming in C\v0.69.0 source code\Upsonic-Upsonic-4c81605\src\upsonic\ocr
+  [DIR]  Semester-I\Programming in C\v0.69.0 source code\Upsonic-Upsonic-4c81605\src\upsonic\profiles
+  [DIR]  Semester-I\Programming in C\v0.69.0 source code\Upsonic-Upsonic-4c81605\src\upsonic\providers
+  [DIR]  Semester-I\Programming in C\v0.69.0 source code\Upsonic-Upsonic-4c81605\src\upsonic\reflection
+  [DIR]  Semester-I\Programming in C\v0.69.0 source code\Upsonic-Upsonic-4c81605\src\upsonic\reliability_layer
+  [DIR]  Semester-I\Programming in C\v0.69.0 source code\Upsonic-Upsonic-4c81605\src\upsonic\safety_engine
+  [DIR]  Semester-I\Programming in C\v0.69.0 source code\Upsonic-Upsonic-4c81605\src\upsonic\safety_engine\base
+  [DIR]  Semester-I\Programming in C\v0.69.0 source code\Upsonic-Upsonic-4c81605\src\upsonic\safety_engine\llm
+  [DIR]  Semester-I\Programming in C\v0.69.0 source code\Upsonic-Upsonic-4c81605\src\upsonic\safety_engine\policies
+  [DIR]  Semester-I\Programming in C\v0.69.0 source code\Upsonic-Upsonic-4c81605\src\upsonic\schemas
+  [DIR]  Semester-I\Programming in C\v0.69.0 source code\Upsonic-Upsonic-4c81605\src\upsonic\storage
+  [DIR]  Semester-I\Programming in C\v0.69.0 source code\Upsonic-Upsonic-4c81605\src\upsonic\storage\memory
+  [DIR]  Semester-I\Programming in C\v0.69.0 source code\Upsonic-Upsonic-4c81605\src\upsonic\storage\providers
+  [DIR]  Semester-I\Programming in C\v0.69.0 source code\Upsonic-Upsonic-4c81605\src\upsonic\storage\session
+  [DIR]  Semester-I\Programming in C\v0.69.0 source code\Upsonic-Upsonic-4c81605\src\upsonic\tasks
+  [DIR]  Semester-I\Programming in C\v0.69.0 source code\Upsonic-Upsonic-4c81605\src\upsonic\team
+  [DIR]  Semester-I\Programming in C\v0.69.0 source code\Upsonic-Upsonic-4c81605\src\upsonic\text_splitter
+  [DIR]  Semester-I\Programming in C\v0.69.0 source code\Upsonic-Upsonic-4c81605\src\upsonic\tools
+  [DIR]  Semester-I\Programming in C\v0.69.0 source code\Upsonic-Upsonic-4c81605\src\upsonic\tools\common_tools
+  [DIR]  Semester-I\Programming in C\v0.69.0 source code\Upsonic-Upsonic-4c81605\src\upsonic\tools\custom_tools
+  [DIR]  Semester-I\Programming in C\v0.69.0 source code\Upsonic-Upsonic-4c81605\src\upsonic\uel
+  [DIR]  Semester-I\Programming in C\v0.69.0 source code\Upsonic-Upsonic-4c81605\src\upsonic\utils
+  [DIR]  Semester-I\Programming in C\v0.69.0 source code\Upsonic-Upsonic-4c81605\src\upsonic\utils\integrations
+  [DIR]  Semester-I\Programming in C\v0.69.0 source code\Upsonic-Upsonic-4c81605\src\upsonic\utils\package
+  [DIR]  Semester-I\Programming in C\v0.69.0 source code\Upsonic-Upsonic-4c81605\src\upsonic\vectordb
+  [DIR]  Semester-I\Programming in C\v0.69.0 source code\Upsonic-Upsonic-4c81605\src\upsonic\vectordb\providers
+  [DIR]  Semester-I\Programming in C\v0.69.0 source code\Upsonic-Upsonic-4c81605\tests
+  [DIR]  Semester-I\Programming in C\v0.69.0 source code\Upsonic-Upsonic-4c81605\tests\smoke_tests
+  [DIR]  Semester-I\Programming in C\v0.69.0 source code\Upsonic-Upsonic-4c81605\tests\unit_tests
+  [DIR]  Semester-I\Programming in C\v0.69.0 source code\Upsonic-Upsonic-4c81605\tests\unit_tests\agent
+  [DIR]  Semester-I\Programming in C\v0.69.0 source code\Upsonic-Upsonic-4c81605\tests\unit_tests\graph
+  [DIR]  Semester-I\Programming in C\v0.69.0 source code\Upsonic-Upsonic-4c81605\tests\unit_tests\rag
+  [DIR]  Semester-I\Programming in C\v0.69.0 source code\Upsonic-Upsonic-4c81605\tests\unit_tests\rag\chunking
+  [DIR]  Semester-I\Programming in C\v0.69.0 source code\Upsonic-Upsonic-4c81605\tests\unit_tests\rag\embeddings
+  [DIR]  Semester-I\Programming in C\v0.69.0 source code\Upsonic-Upsonic-4c81605\tests\unit_tests\rag\loaders
+  [DIR]  Semester-I\Programming in C\v0.69.0 source code\Upsonic-Upsonic-4c81605\tests\unit_tests\rag\vectordb
+  [DIR]  Semester-I\Programming in C\v0.69.0 source code\Upsonic-Upsonic-4c81605\tests\unit_tests\safety_engine
+  [DIR]  Semester-I\Programming in C\v0.69.0 source code\Upsonic-Upsonic-4c81605\tests\unit_tests\team
+  [DIR]  Semester-I\Programming in C\v0.69.0 source code\Upsonic-Upsonic-4c81605\tests\unit_tests\tools
+
+📂 Visible Files (846 items)
+----------------------------------------
+  [FILE] directory_report.txt
+  [FILE] Registration Certificate.pdf
+  [FILE] Semester-2\AC\5_6113894737654062199.pdf
+  [FILE] Semester-2\AC\5_6113894737654062395.pdf
+  [FILE] Semester-2\AC\AC Assignment 19-02-2026.docx
+  [FILE] Semester-2\AC\AC END TERM B2B.pdf
+  [FILE] Semester-2\AC\AC Practical File.pdf
+  [FILE] Semester-2\AC\Analysis\1_modified.png
+  [FILE] Semester-2\AC\Analysis\Syllabuspart1.png
+  [FILE] Semester-2\AC\book fuel.pdf
+  [FILE] Semester-2\AC\chemistry end sem 2025.pdf
+  [FILE] Semester-2\AC\Classification of Fuel.png
+  [FILE] Semester-2\AC\Comparision between solid,liquid and gaseous fuel.png
+  [FILE] Semester-2\AC\Difference between GCV and NCV.png
+  [FILE] Semester-2\AC\Final Datesheet for Mid-Term Examination Mar-2026 (BPIT).pdf
+  [FILE] Semester-2\AC\Fossil Fuel VS Nuclean Fuel.png
+  [FILE] Semester-2\AC\HCV and LCV difference.png
+  [FILE] Semester-2\AC\important questions-1.pdf
+  [FILE] Semester-2\AC\Important things\Preventive Measures.png
+  [FILE] Semester-2\AC\Important things\Screenshot_1.png
+  [FILE] Semester-2\AC\Improtant questiosn Bomb caloriemeter.png
+  [FILE] Semester-2\AC\L-2\Screenshot_1.png
+  [FILE] Semester-2\AC\Learning\Advantages of Phase Rule -2.png
+  [FILE] Semester-2\AC\Learning\advantages of Phase Rule.png
+  [FILE] Semester-2\AC\Learning\Disadvantages -2.png
+  [FILE] Semester-2\AC\Learning\Lime Soda -2\1.png
+  [FILE] Semester-2\AC\Learning\Lime Soda -2\2.png
+  [FILE] Semester-2\AC\Learning\Lime Soda -2\3.png
+  [FILE] Semester-2\AC\Learning\Lime Soda -2\4.png
+  [FILE] Semester-2\AC\Learning\Lime Soda -2\5.png
+  [FILE] Semester-2\AC\Learning\Lime Sodas\Screenshot_1.png
+  [FILE] Semester-2\AC\Learning\Lime Sodas\Screenshot_2.png
+  [FILE] Semester-2\AC\Learning\Lime Sodas\Screenshot_3.png
+  [FILE] Semester-2\AC\Learning\Lime Sodas\Screenshot_4.png
+  [FILE] Semester-2\AC\Learning\Lime Sodas\Screenshot_5.png
+  [FILE] Semester-2\AC\Learning\phae rule.png
+  [FILE] Semester-2\AC\Learning\Screenshot_1.png
+  [FILE] Semester-2\AC\Learning\See.png
+  [FILE] Semester-2\AC\papers\End Sem June 2023 Question Paper.pdf
+  [FILE] Semester-2\AC\papers\End Sem June 2024 Question Paper.pdf
+  [FILE] Semester-2\AC\papers\End Sem June 2025 Question Paper.pdf
+  [FILE] Semester-2\AC\papers\End Sems 2013 to 2018 Question Paper.pdf
+  [FILE] Semester-2\AC\papers\END TERM DEC 2025 Question Paper.pdf
+  [FILE] Semester-2\AC\papers\MT+END TERM PYQ Question Paper.pdf
+  [FILE] Semester-2\AC\Planning(Purpose to make sure it to be a money heist type of plan).mm
+  [FILE] Semester-2\AC\Reaching level 1000 Applied chemistry.mm
+  [FILE] Semester-2\AC\Syllabus part 2.png
+  [FILE] Semester-2\AC\Syllabuspart1.png
+  [FILE] Semester-2\AC\Units of Heat.png
+  [FILE] Semester-2\AM-II\AM-2 End Sem 23 Question Paper.pdf
+  [FILE] Semester-2\AM-II\AM-2 PYQ LATEST Question Paper.pdf
+  [FILE] Semester-2\AM-II\Assignments\CommonAssignment1_AMII_2026.pdf
+  [FILE] Semester-2\AM-II\MID TERM APRIL-MAY 2026 Question Paper.pdf
+  [FILE] Semester-2\AM-II\MID TERM MARCH 2026 Question Paper.pdf
+  [FILE] Semester-2\AM-II\Mid Term Paper Solution23 Question Paper.pdf
+  [FILE] Semester-2\AM-II\pyq end sem+mid sem Question Paper.pdf
+  [FILE] Semester-2\AM-II\Solution of CT Question Paper.pdf
+  [FILE] Semester-2\AM-II\Syllabus-2.png
+  [FILE] Semester-2\AM-II\Syllabus.png
+  [FILE] Semester-2\AP - II\Amplitude,Digital modulation.png
+  [FILE] Semester-2\AP - II\AP-2 UNIT-4 free notes.pdf
+  [FILE] Semester-2\AP - II\AP-II syllabus.png
+  [FILE] Semester-2\AP - II\Applied physics 2026 unit 1 test.pdf
+  [FILE] Semester-2\AP - II\Assignment-Set_Unit-2_2nd Sem.pdf
+  [FILE] Semester-2\AP - II\Crystals structures\Screenshot_2.png
+  [FILE] Semester-2\AP - II\Imp work\New Doc 04-07-2025 14.38.pdf
+  [FILE] Semester-2\AP - II\IMportant photos\Plank radiation law to Raylengh Jeans law.png
+  [FILE] Semester-2\AP - II\IMportant photos\Plank radition - 4.png
+  [FILE] Semester-2\AP - II\IMportant photos\Plank Radition law part 2.png
+  [FILE] Semester-2\AP - II\IMportant photos\Plank Radition law.png
+  [FILE] Semester-2\AP - II\IMportant photos\Plank Raditon law longer wavelength.png
+  [FILE] Semester-2\AP - II\IMportant photos\Plank's Radition law -3.png
+  [FILE] Semester-2\AP - II\IMportant photos\rayleigh Jeans law failure.png
+  [FILE] Semester-2\AP - II\IMportant photos\Rayleign Jeans law.png
+  [FILE] Semester-2\AP - II\IMportant photos\Raylength Jeans part 2.png
+  [FILE] Semester-2\AP - II\IMportant photos\Temperature graph and wavelenght.png
+  [FILE] Semester-2\AP - II\IMportant photos\Weoings distribution law.png
+  [FILE] Semester-2\AP - II\IMportant photos\Weoins displacement law part 2.png
+  [FILE] Semester-2\AP - II\mid sem.jpeg
+  [FILE] Semester-2\AP - II\Papers.pdf
+  [FILE] Semester-2\AP - II\Papers\APPLIED PHYSICS 2 PYQs.pdf
+  [FILE] Semester-2\AP - II\Papers\downlaod-2.jpeg
+  [FILE] Semester-2\AP - II\Papers\Mid sem paper -1.jpeg
+  [FILE] Semester-2\AP - II\Papers\Mid sem paper -2.jpeg
+  [FILE] Semester-2\AP - II\Papers\WhatsApp Image 2026-05-25 at 5.54.45 PM.jpeg
+  [FILE] Semester-2\AP - II\Papers\WhatsApp Image 2026-05-25 at 6.10.38 PM.jpeg
+  [FILE] Semester-2\AP - II\Symmetric Distinguishable Indistuingishable.png
+  [FILE] Semester-2\AP - II\Unit-2 Q Statistics (3).pdf
+  [FILE] Semester-2\AP - II\Unit-2 Statistics (1)-1.pdf
+  [FILE] Semester-2\AP - II\Unit-2 Statistics (2).pdf
+  [FILE] Semester-2\CS\ALL PYQs Question Paper.pdf
+  [FILE] Semester-2\CS\Assignment-Set1_unit 1.pdf
+  [FILE] Semester-2\CS\Assignment-Set1_unit 2.pdf
+  [FILE] Semester-2\CS\Brahmcharya .txt
+  [FILE] Semester-2\CS\Communication Skills Unit 1.pdf
+  [FILE] Semester-2\CS\CS 3rd unit notes.pdf
+  [FILE] Semester-2\CS\CS-Unit 2 notes.pdf
+  [FILE] Semester-2\CS\CSL Unit IV.pdf
+  [FILE] Semester-2\CS\Second mid term exam.jpeg
+  [FILE] Semester-2\EG-II\Basic projection of solids.png
+  [FILE] Semester-2\EG-II\Drawing_of_base.png
+  [FILE] Semester-2\EG-II\Enginering-Graphics-II syllabus.png
+  [FILE] Semester-2\EG-II\error.png
+  [FILE] Semester-2\EM\A.pdf
+  [FILE] Semester-2\EM\Assignment 2-1.pdf
+  [FILE] Semester-2\EM\B.pdf
+  [FILE] Semester-2\EM\C.pdf
+  [FILE] Semester-2\EM\D.pdf
+  [FILE] Semester-2\EM\EM Syllabus-2.png
+  [FILE] Semester-2\EM\EM Syllabus.png
+  [FILE] Semester-2\EM\Important for mid sem -2.txt
+  [FILE] Semester-2\EM\MECHANICS PYQ.pdf
+  [FILE] Semester-2\EM\Unit 3 notes.pdf
+  [FILE] Semester-2\ES\Basic Electrical Engineering by Abhijit Chakrabarti, Sudipta Nath, Chandan Kumar Chanda (z-lib.org).pdf
+  [FILE] Semester-2\ES\Basic Electrical Engineering by C.L. Wadhwa.pdf
+  [FILE] Semester-2\ES\Basics of AC.pdf
+  [FILE] Semester-2\ES\chapter-3-DC-motor-ppt-converted (1).pdf
+  [FILE] Semester-2\ES\circuits analysis.pdf
+  [FILE] Semester-2\ES\ES last 5 year question paper.pdf
+  [FILE] Semester-2\ES\ES-Syllabus (2).png
+  [FILE] Semester-2\ES\ES-Syllabus.png
+  [FILE] Semester-2\ES\ES_Unit-3A.pdf
+  [FILE] Semester-2\ES\ES_Unit-3B.pdf
+  [FILE] Semester-2\ES\ES_Unit-3C.pdf
+  [FILE] Semester-2\ES\JB Gupta chapter 1,2,3.pdf
+  [FILE] Semester-2\ES\Practical\ES LAB MANUAL.pdf
+  [FILE] Semester-2\ES\practice question.pdf
+  [FILE] Semester-2\ES\RC,LC circuit.pdf
+  [FILE] Semester-2\ES\Screenshot_1.png
+  [FILE] Semester-2\ES\Screenshot_2.png
+  [FILE] Semester-2\ES\Time domain analysis.pdf
+  [FILE] Semester-2\ES\Transform\Core type transformer.png
+  [FILE] Semester-2\ES\Transform\difference.png
+  [FILE] Semester-2\ES\Transform\Formula-2.png
+  [FILE] Semester-2\ES\Transform\formula.png
+  [FILE] Semester-2\ES\Transform\No load\2.png
+  [FILE] Semester-2\ES\Transform\No load\3.png
+  [FILE] Semester-2\ES\Transform\No load\4.png
+  [FILE] Semester-2\ES\Transform\No load\5.png
+  [FILE] Semester-2\ES\Transform\No load\6.png
+  [FILE] Semester-2\ES\Transform\No load\8.png
+  [FILE] Semester-2\ES\Transform\No load\Screenshot_1.png
+  [FILE] Semester-2\ES\Transform\ON load\1.png
+  [FILE] Semester-2\ES\Transform\ON load\2.png
+  [FILE] Semester-2\ES\Transform\Screenshot_1.png
+  [FILE] Semester-2\ES\Transform\Screenshot_2.png
+  [FILE] Semester-2\ES\Transform\Screenshot_3.png
+  [FILE] Semester-2\ES\Transform\Screenshot_4.png
+  [FILE] Semester-2\ES\Transform\Shell Type Transformer.png
+  [FILE] Semester-2\ES\transformer.pdf
+  [FILE] Semester-2\Extremely Grateful People liked and.txt
+  [FILE] Semester-2\Final Datesheet for End Term Theory Exam (BTech) May-Jun 2026.pdf
+  [FILE] Semester-2\IPU Result semester 2.png
+  [FILE] Semester-2\MI notes.txt
+  [FILE] Semester-2\Not needed as much\AP Lab -II.png
+  [FILE] Semester-2\Not needed as much\AP Lab.png
+  [FILE] Semester-2\Not needed as much\BPIT-Proposed Schedule of End Term Practical Examination May 2026.pdf
+  [FILE] Semester-2\Not needed as much\Final Datesheet for Mid-Term Examination Mar-2026 (BPIT).pdf
+  [FILE] Semester-2\Not needed as much\Final Datesheet for Supplementary Mid-Term Examination May-2026 (BPIT).docx
+  [FILE] Semester-2\Not needed as much\Final Workshop Manual.pdf
+  [FILE] Semester-2\Not needed as much\Revised Time Table First year 2nd sem 2025-2026-1.pdf
+  [FILE] Semester-2\PDP\PDP(9.2.26) To revise later.mp4
+  [FILE] Semester-2\Plan.txt
+  [FILE] Semester-2\result.png
+  [FILE] Semester-2\Smart Study technique\Gemini analysis EM smart study technique.mp4
+  [FILE] Semester-2\sprouts.txt
+  [FILE] Semester-2\To do list.txt
+  [FILE] Semester-3\DLCD\syllabu'.png
+  [FILE] Semester-3\DLCD\syllabus-2.png
+  [FILE] Semester-3\IKS\Unit 1 Full.pdf
+  [FILE] Semester-3\OOPS\OOPS Documentation.mkv
+  [FILE] Semester-I\1 Draft Datesheet for Mid-Term Examination Sep-Oct-2025 (IPU).pdf
+  [FILE] Semester-I\1. BPIT-Final Datesheet End Term Practical (Nov. 2025).pdf
+  [FILE] Semester-I\AP\25-09-13 Untitled.pdf.zip
+  [FILE] Semester-I\AP\25-09-13 Untitled.pdf\25-09-13 Untitled.pdf
+  [FILE] Semester-I\AP\25-09-13 Untitled.pdf\25-10-05 Untitled.pdf
+  [FILE] Semester-I\AP\25-09-13 Untitled.pdf\Alakh Sir Wave L-2 Notes.pdf
+  [FILE] Semester-I\AP\25-09-13 Untitled.pdf\Alakh Sir Waves notes L-1.pdf
+  [FILE] Semester-I\AP\25-09-13 Untitled.pdf\Derivations.pdf
+  [FILE] Semester-I\AP\25-09-13 Untitled.pdf\Douts.pdf
+  [FILE] Semester-I\AP\25-09-13 Untitled.pdf\Kavita Mam notes jst imp for me with my explaination of something I didn't understand.pdf
+  [FILE] Semester-I\AP\25-09-13 Untitled.pdf\Mistake register.pdf
+  [FILE] Semester-I\AP\AP-1 Syllabus.png
+  [FILE] Semester-I\AP\Assignment-1 (Thermodynamics).pdf
+  [FILE] Semester-I\AP\Assignment-2(a)_AP-I.docx
+  [FILE] Semester-I\AP\Assignment-2(b) AP-I.docx
+  [FILE] Semester-I\AP\Assignment\Assignment-1 (Thermodynamics).pdf
+  [FILE] Semester-I\AP\B2B AP UNIT-4.pdf
+  [FILE] Semester-I\AP\Doubts\Doubt.mkv
+  [FILE] Semester-I\AP\Doubts\Doubt.txt
+  [FILE] Semester-I\AP\Doubts\Doubt_image.png
+  [FILE] Semester-I\AP\Doubts\Newton ring light bending.mp4
+  [FILE] Semester-I\AP\Engineering-physics-H. K. malik.pdf
+  [FILE] Semester-I\AP\New OpenDocument Spreadsheet.ods
+  [FILE] Semester-I\AP\Notes_ EMT (2).pdf
+  [FILE] Semester-I\AP\Notes_EMT basics (1).pdf
+  [FILE] Semester-I\AP\physics paper.pdf
+  [FILE] Semester-I\AP\Practical\ap practical file exp (1 to 4).pdf
+  [FILE] Semester-I\AP\Practical\AP practical file( exp 5 to 7).pdf
+  [FILE] Semester-I\AP\Practical\Graph and calculations of Bar pendulum.jpg
+  [FILE] Semester-I\AP\Practical\Viva questions AP-I.pdf
+  [FILE] Semester-I\AP\PYQ IPU.pdf.zip
+  [FILE] Semester-I\AP\PYQ IPU.pdf\PYQ IPU.pdf
+  [FILE] Semester-I\AP\PYQ IPU.pdf\Question to do before exams.pdf
+  [FILE] Semester-I\AP\PYQ IPU.pdf\Short notes.pdf
+  [FILE] Semester-I\AP\PYQ IPU.pdf\Thermodynamics short notes.pdf
+  [FILE] Semester-I\AP\PYQ IPU.pdf\Things I couldn't able to reclall during recallation.pdf
+  [FILE] Semester-I\AP\PYQ IPU.pdf\Very crip notes.pdf
+  [FILE] Semester-I\AP\Questions pending.odt
+  [FILE] Semester-I\AP\Test Unit-3 & 4.pdf
+  [FILE] Semester-I\AP\Thermodynamics_Numericals.pdf
+  [FILE] Semester-I\AP\Unit -4.png
+  [FILE] Semester-I\AP\Unit-3.png
+  [FILE] Semester-I\AP\Viva questions AP-I.pdf
+  [FILE] Semester-I\AP\WhatsApp Image 2025-10-22 at 11.15.42_559e995d.jpg
+  [FILE] Semester-I\AP\WhatsApp Image 2025-10-22 at 11.15.42_5c1a86c5.jpg
+  [FILE] Semester-I\AP\WhatsApp Image 2025-10-22 at 11.15.42_a2737e69.jpg
+  [FILE] Semester-I\Application to Arvind Sir .pdf
+  [FILE] Semester-I\CSE 1st sem updated time table 2025.pdf
+  [FILE] Semester-I\EG\Screenshot_1.png
+  [FILE] Semester-I\EVS\Biogeochemical Cycles.pdf
+  [FILE] Semester-I\EVS\EIA.m4a
+  [FILE] Semester-I\EVS\EVS syllabus for End sem.png
+  [FILE] Semester-I\EVS\EVS Syllabus.png
+  [FILE] Semester-I\EVS\EVS Unit 2 notes.pdf
+  [FILE] Semester-I\EVS\EVS Unit 3 notes.pdf
+  [FILE] Semester-I\EVS\EVS( mid sem -1).zip
+  [FILE] Semester-I\EVS\EVS( mid sem -1)\25-09-23 Untitled (2).pdf
+  [FILE] Semester-I\EVS\EVS( mid sem -1)\25-09-23 Untitled.pdf
+  [FILE] Semester-I\EVS\EVS( mid sem -1)\EVS short notes.pdf
+  [FILE] Semester-I\EVS\EVS( mid sem -1)\Imp examples to remember for EVS.pdf
+  [FILE] Semester-I\EVS\EVS( mid sem -1)\Important topics in EVS.pdf
+  [FILE] Semester-I\EVS\EVS( mid sem -1)\Jo yad nahi aaya.pdf
+  [FILE] Semester-I\EVS\EVS( mid sem -1)\Pen classifciaton.pdf
+  [FILE] Semester-I\EVS\EVS( mid sem -1)\PYQ solutions EVS.pdf
+  [FILE] Semester-I\EVS\EVS( mid sem -1)\Terms additional known in EVS.pdf
+  [FILE] Semester-I\EVS\EVS.mm
+  [FILE] Semester-I\EVS\EVSL Unit IV Handwritten.pdf
+  [FILE] Semester-I\EVS\evss unitt one.pdf
+  [FILE] Semester-I\EVS\Hotspot of Biodiversity.png
+  [FILE] Semester-I\EVS\PYQ EVS .pdf
+  [FILE] Semester-I\EVS\Screenshot_1.png
+  [FILE] Semester-I\Final Datesheet BTech (Affiliated) Dec 25_Jan 26.pdf
+  [FILE] Semester-I\Group wise list_B. Tech_2025-29_ Batch 1st year(1).xlsx
+  [FILE] Semester-I\Group wise list_B. Tech_2025-29_ Batch 1st year.xlsx
+  [FILE] Semester-I\Hash define first sesson(29.10,25).mp4
+  [FILE] Semester-I\HVE\HVE Project\Activity Report_ Visit to Orphanage.pdf
+  [FILE] Semester-I\HVE\HVE Project\Harshil_trees_planting.jpg
+  [FILE] Semester-I\HVE\HVE Project\Harshil_trees_planting_2.jpg
+  [FILE] Semester-I\HVE\HVE Project\orpahange.md
+  [FILE] Semester-I\HVE\HVE Project\Project[1].pdf
+  [FILE] Semester-I\HVE\HVE Project\Visiting to Orphanage.odt
+  [FILE] Semester-I\HVE\HVE Project\WhatsApp Image 2025-10-25 at 13.42.25_aabb981f.jpg
+  [FILE] Semester-I\HVE\HVE Project\written.odt
+  [FILE] Semester-I\HVE\Unit 3, Set 2.docx
+  [FILE] Semester-I\HVE\Unit 4, Set 4.docx
+  [FILE] Semester-I\HVE\Unit-1 Set-1.docx
+  [FILE] Semester-I\HVE\Unit-2, Set-1.docx
+  [FILE] Semester-I\MP\1. Introduction.pptx
+  [FILE] Semester-I\MP\2. Gas Welding.pptx
+  [FILE] Semester-I\MP\3. Arc Welding.pptx
+  [FILE] Semester-I\MP\Adobe Scan 10 Oct 2023.pdf
+  [FILE] Semester-I\MP\Assignment-2 (SET-4).pdf
+  [FILE] Semester-I\MP\Classification of Manufacturing Processes.pdf
+  [FILE] Semester-I\MP\DOC-20240811-WA0000..pdf
+  [FILE] Semester-I\MP\End sem.pdf
+  [FILE] Semester-I\MP\Exam prep\Casting.m4a
+  [FILE] Semester-I\MP\Exam prep\Centrifugal casting'.m4a
+  [FILE] Semester-I\MP\Exam prep\Deep Drawing Rolling Stretch forming processes.m4a
+  [FILE] Semester-I\MP\Exam prep\Hot Tears and Hot cracks.m4a
+  [FILE] Semester-I\MP\Exam prep\Limitations of powder metallurgy.m4a
+  [FILE] Semester-I\MP\Exam prep\Power metallurgy.m4a
+  [FILE] Semester-I\MP\Exam prep\Sheet metal processes Advantages and Disadvantages.m4a
+  [FILE] Semester-I\MP\mp-unit-3-set-1-2-3-4.docx
+  [FILE] Semester-I\MP\mp-unit-4-set-1-2-3-4.docx
+  [FILE] Semester-I\MP\MP_Notes(unit-3).pdf
+  [FILE] Semester-I\MP\Pattern Making.pdf
+  [FILE] Semester-I\MP\Plastic.pdf
+  [FILE] Semester-I\MP\Powder Metallurgy-1.pdf
+  [FILE] Semester-I\MP\Properties of Materials.pdf
+  [FILE] Semester-I\MP\Sheet Metal Working.pdf
+  [FILE] Semester-I\MP\syllabus MP.jpg
+  [FILE] Semester-I\MP\UNIT-2 ONE SHOT.pdf
+  [FILE] Semester-I\Original_B. Tech_2025-29_ Batch 1st year(1).xlsx
+  [FILE] Semester-I\Original_B. Tech_2025-29_ Batch 1st year.xlsx
+  [FILE] Semester-I\Programming in C\btech-1-sem-programming-in-c-es-101-dec-2024.pdf
+  [FILE] Semester-I\Programming in C\btech-1-sem-programming-in-c-es-101-jan-2024.pdf
+  [FILE] Semester-I\Programming in C\C ChapterWise Notes\Chapter 0 - Introduction\Chapter 0.pdf
+  [FILE] Semester-I\Programming in C\C ChapterWise Notes\Chapter 10\Chapter 10 - Practice.pdf
+  [FILE] Semester-I\Programming in C\C ChapterWise Notes\Chapter 10\Chapter 10.pdf
+  [FILE] Semester-I\Programming in C\C ChapterWise Notes\Chapter 11\Chapter 11 - Practice set.pdf
+  [FILE] Semester-I\Programming in C\C ChapterWise Notes\Chapter 11\Chapter 11.pdf
+  [FILE] Semester-I\Programming in C\C ChapterWise Notes\Chapter 1\Chapter 1 - Practice set.pdf
+  [FILE] Semester-I\Programming in C\C ChapterWise Notes\Chapter 1\Chapter 1.pdf
+  [FILE] Semester-I\Programming in C\C ChapterWise Notes\Chapter 2\Chapter 2 - Instructions and Operators.pdf
+  [FILE] Semester-I\Programming in C\C ChapterWise Notes\Chapter 2\Chapter 2 - Practice set.pdf
+  [FILE] Semester-I\Programming in C\C ChapterWise Notes\Chapter 3\Chapter 3 - Conditional Instructions .pdf
+  [FILE] Semester-I\Programming in C\C ChapterWise Notes\Chapter 3\Chapter 3 - Practice Set.pdf
+  [FILE] Semester-I\Programming in C\C ChapterWise Notes\Chapter 4\Chapter 4 - Loop Control Instructions.pdf
+  [FILE] Semester-I\Programming in C\C ChapterWise Notes\Chapter 4\Chapter 4 - Practice Set.pdf
+  [FILE] Semester-I\Programming in C\C ChapterWise Notes\Chapter 5\Chapter 5 - Functions & Recursion.pdf
+  [FILE] Semester-I\Programming in C\C ChapterWise Notes\Chapter 5\Chapter 5 - Practice Set.pdf
+  [FILE] Semester-I\Programming in C\C ChapterWise Notes\Chapter 6\Chapter 6 - Pointers.pdf
+  [FILE] Semester-I\Programming in C\C ChapterWise Notes\Chapter 6\Chapter 6 - Practice set.pdf
+  [FILE] Semester-I\Programming in C\C ChapterWise Notes\Chapter 7\Chapter 7 - Practice Set.pdf
+  [FILE] Semester-I\Programming in C\C ChapterWise Notes\Chapter 7\Chapter 7.pdf
+  [FILE] Semester-I\Programming in C\C ChapterWise Notes\Chapter 8\Chapter 8 - Practice set.pdf
+  [FILE] Semester-I\Programming in C\C ChapterWise Notes\Chapter 8\Chapter 8 - Strings.pdf
+  [FILE] Semester-I\Programming in C\C ChapterWise Notes\Chapter 9\Chapter 9 - Practice set.pdf
+  [FILE] Semester-I\Programming in C\C ChapterWise Notes\Chapter 9\Chapter 9 - Structures.pdf
+  [FILE] Semester-I\Programming in C\C ChapterWise Notes\Project 1\game.c
+  [FILE] Semester-I\Programming in C\C ChapterWise Notes\Project 1\game.exe
+  [FILE] Semester-I\Programming in C\C ChapterWise Notes\Project 1\Project 1 - Number Guessing Game.pdf
+  [FILE] Semester-I\Programming in C\C ChapterWise Notes\Project 1\random_num_gen.c
+  [FILE] Semester-I\Programming in C\C ChapterWise Notes\Project 1\random_num_gen.exe
+  [FILE] Semester-I\Programming in C\C ChapterWise Notes\Project 2\game.c
+  [FILE] Semester-I\Programming in C\C ChapterWise Notes\Project 2\game.exe
+  [FILE] Semester-I\Programming in C\C ChapterWise Notes\Project 2\Project 2.pdf
+  [FILE] Semester-I\Programming in C\C_notes (2).zip
+  [FILE] Semester-I\Programming in C\C_notes.zip
+  [FILE] Semester-I\Programming in C\C_notes\C PYQ Practice.pdf
+  [FILE] Semester-I\Programming in C\C_notes\Crisp short notes.pdf
+  [FILE] Semester-I\Programming in C\C_notes\Exam ready last minuite defination.pdf
+  [FILE] Semester-I\Programming in C\C_notes\Exam writing tip in C.pdf
+  [FILE] Semester-I\Programming in C\C_notes\Final go tricky shortnotes.pdf
+  [FILE] Semester-I\Programming in C\C_notes\Flow charts & algorithms in c.pdf
+  [FILE] Semester-I\Programming in C\C_notes\General advantage.pdf
+  [FILE] Semester-I\Programming in C\C_notes\Imp Tricky points in C.pdf
+  [FILE] Semester-I\Programming in C\C_notes\Morning recallation session topic revised (28.9.25).pdf
+  [FILE] Semester-I\Programming in C\C_notes\Programming in C short notes.pdf
+  [FILE] Semester-I\Programming in C\C_notes\PYQ friendly programs to revise.pdf
+  [FILE] Semester-I\Programming in C\C_notes\Question must revise before exam.pdf
+  [FILE] Semester-I\Programming in C\C_notes\Rough work.pdf
+  [FILE] Semester-I\Programming in C\C_notes\Study flow charts.pdf
+  [FILE] Semester-I\Programming in C\C_notes\Topics to revise again after morning recallation (28.9.25).pdf
+  [FILE] Semester-I\Programming in C\C_notes\very crictical may have less content(Programmin in C).pdf
+  [FILE] Semester-I\Programming in C\C_syllabus.jpg
+  [FILE] Semester-I\Programming in C\Doubts\Functions Vs Operators.mp4
+  [FILE] Semester-I\Programming in C\Papers\BPIT Mid sem -1 PIC paper (29.9.25).jpg
+  [FILE] Semester-I\Programming in C\PC ASSIGNMENT 3,4-1.pdf
+  [FILE] Semester-I\Programming in C\PIC Mindmap.mm
+  [FILE] Semester-I\Programming in C\qbank.docx
+  [FILE] Semester-I\Programming in C\QuestionBank.docx
+  [FILE] Semester-I\Programming in C\Screenshot_1.png
+  [FILE] Semester-I\Programming in C\Screenshot_2.png
+  [FILE] Semester-I\Programming in C\Screenshot_3.png
+  [FILE] Semester-I\Programming in C\search sort.pptx
+  [FILE] Semester-I\Programming in C\Sorting_NCERT.pdf
+  [FILE] Semester-I\Programming in C\strings in c (1).pptx
+  [FILE] Semester-I\Programming in C\v0.69.0 source code.zip
+  [FILE] Semester-I\Programming in C\v0.69.0 source code\Upsonic-Upsonic-4c81605\CLAUDE.md
+  [FILE] Semester-I\Programming in C\v0.69.0 source code\Upsonic-Upsonic-4c81605\LICENCE
+  [FILE] Semester-I\Programming in C\v0.69.0 source code\Upsonic-Upsonic-4c81605\notebooks\investment_full_report.md
+  [FILE] Semester-I\Programming in C\v0.69.0 source code\Upsonic-Upsonic-4c81605\notebooks\stock_report.ipynb
+  [FILE] Semester-I\Programming in C\v0.69.0 source code\Upsonic-Upsonic-4c81605\pyproject.toml
+  [FILE] Semester-I\Programming in C\v0.69.0 source code\Upsonic-Upsonic-4c81605\pytest.ini
+  [FILE] Semester-I\Programming in C\v0.69.0 source code\Upsonic-Upsonic-4c81605\README.md
+  [FILE] Semester-I\Programming in C\v0.69.0 source code\Upsonic-Upsonic-4c81605\src\upsonic\__init__.py
+  [FILE] Semester-I\Programming in C\v0.69.0 source code\Upsonic-Upsonic-4c81605\src\upsonic\_griffe.py
+  [FILE] Semester-I\Programming in C\v0.69.0 source code\Upsonic-Upsonic-4c81605\src\upsonic\_json_schema.py
+  [FILE] Semester-I\Programming in C\v0.69.0 source code\Upsonic-Upsonic-4c81605\src\upsonic\_output.py
+  [FILE] Semester-I\Programming in C\v0.69.0 source code\Upsonic-Upsonic-4c81605\src\upsonic\_parts_manager.py
+  [FILE] Semester-I\Programming in C\v0.69.0 source code\Upsonic-Upsonic-4c81605\src\upsonic\_utils.py
+  [FILE] Semester-I\Programming in C\v0.69.0 source code\Upsonic-Upsonic-4c81605\src\upsonic\agent\__init__.py
+  [FILE] Semester-I\Programming in C\v0.69.0 source code\Upsonic-Upsonic-4c81605\src\upsonic\agent\agent.py
+  [FILE] Semester-I\Programming in C\v0.69.0 source code\Upsonic-Upsonic-4c81605\src\upsonic\agent\base.py
+  [FILE] Semester-I\Programming in C\v0.69.0 source code\Upsonic-Upsonic-4c81605\src\upsonic\agent\context_managers\__init__.py
+  [FILE] Semester-I\Programming in C\v0.69.0 source code\Upsonic-Upsonic-4c81605\src\upsonic\agent\context_managers\call_manager.py
+  [FILE] Semester-I\Programming in C\v0.69.0 source code\Upsonic-Upsonic-4c81605\src\upsonic\agent\context_managers\context_manager.py
+  [FILE] Semester-I\Programming in C\v0.69.0 source code\Upsonic-Upsonic-4c81605\src\upsonic\agent\context_managers\llm_manager.py
+  [FILE] Semester-I\Programming in C\v0.69.0 source code\Upsonic-Upsonic-4c81605\src\upsonic\agent\context_managers\memory_manager.py
+  [FILE] Semester-I\Programming in C\v0.69.0 source code\Upsonic-Upsonic-4c81605\src\upsonic\agent\context_managers\reliability_manager.py
+  [FILE] Semester-I\Programming in C\v0.69.0 source code\Upsonic-Upsonic-4c81605\src\upsonic\agent\context_managers\system_prompt_manager.py
+  [FILE] Semester-I\Programming in C\v0.69.0 source code\Upsonic-Upsonic-4c81605\src\upsonic\agent\context_managers\task_manager.py
+  [FILE] Semester-I\Programming in C\v0.69.0 source code\Upsonic-Upsonic-4c81605\src\upsonic\agent\deepagent\__init__.py
+  [FILE] Semester-I\Programming in C\v0.69.0 source code\Upsonic-Upsonic-4c81605\src\upsonic\agent\deepagent\backends\__init__.py
+  [FILE] Semester-I\Programming in C\v0.69.0 source code\Upsonic-Upsonic-4c81605\src\upsonic\agent\deepagent\backends\composite_backend.py
+  [FILE] Semester-I\Programming in C\v0.69.0 source code\Upsonic-Upsonic-4c81605\src\upsonic\agent\deepagent\backends\memory_backend.py
+  [FILE] Semester-I\Programming in C\v0.69.0 source code\Upsonic-Upsonic-4c81605\src\upsonic\agent\deepagent\backends\protocol.py
+  [FILE] Semester-I\Programming in C\v0.69.0 source code\Upsonic-Upsonic-4c81605\src\upsonic\agent\deepagent\backends\state_backend.py
+  [FILE] Semester-I\Programming in C\v0.69.0 source code\Upsonic-Upsonic-4c81605\src\upsonic\agent\deepagent\constants.py
+  [FILE] Semester-I\Programming in C\v0.69.0 source code\Upsonic-Upsonic-4c81605\src\upsonic\agent\deepagent\deepagent.py
+  [FILE] Semester-I\Programming in C\v0.69.0 source code\Upsonic-Upsonic-4c81605\src\upsonic\agent\deepagent\tools\__init__.py
+  [FILE] Semester-I\Programming in C\v0.69.0 source code\Upsonic-Upsonic-4c81605\src\upsonic\agent\deepagent\tools\filesystem_toolkit.py
+  [FILE] Semester-I\Programming in C\v0.69.0 source code\Upsonic-Upsonic-4c81605\src\upsonic\agent\deepagent\tools\planning_toolkit.py
+  [FILE] Semester-I\Programming in C\v0.69.0 source code\Upsonic-Upsonic-4c81605\src\upsonic\agent\deepagent\tools\subagent_toolkit.py
+  [FILE] Semester-I\Programming in C\v0.69.0 source code\Upsonic-Upsonic-4c81605\src\upsonic\agent\events.py
+  [FILE] Semester-I\Programming in C\v0.69.0 source code\Upsonic-Upsonic-4c81605\src\upsonic\agent\pipeline\__init__.py
+  [FILE] Semester-I\Programming in C\v0.69.0 source code\Upsonic-Upsonic-4c81605\src\upsonic\agent\pipeline\context.py
+  [FILE] Semester-I\Programming in C\v0.69.0 source code\Upsonic-Upsonic-4c81605\src\upsonic\agent\pipeline\manager.py
+  [FILE] Semester-I\Programming in C\v0.69.0 source code\Upsonic-Upsonic-4c81605\src\upsonic\agent\pipeline\step.py
+  [FILE] Semester-I\Programming in C\v0.69.0 source code\Upsonic-Upsonic-4c81605\src\upsonic\agent\pipeline\steps.py
+  [FILE] Semester-I\Programming in C\v0.69.0 source code\Upsonic-Upsonic-4c81605\src\upsonic\agent\policy_manager.py
+  [FILE] Semester-I\Programming in C\v0.69.0 source code\Upsonic-Upsonic-4c81605\src\upsonic\agent\run_result.py
+  [FILE] Semester-I\Programming in C\v0.69.0 source code\Upsonic-Upsonic-4c81605\src\upsonic\agent\tool_policy_manager.py
+  [FILE] Semester-I\Programming in C\v0.69.0 source code\Upsonic-Upsonic-4c81605\src\upsonic\cache\__init__.py
+  [FILE] Semester-I\Programming in C\v0.69.0 source code\Upsonic-Upsonic-4c81605\src\upsonic\cache\cache_manager.py
+  [FILE] Semester-I\Programming in C\v0.69.0 source code\Upsonic-Upsonic-4c81605\src\upsonic\canvas\__init__.py
+  [FILE] Semester-I\Programming in C\v0.69.0 source code\Upsonic-Upsonic-4c81605\src\upsonic\canvas\canvas.py
+  [FILE] Semester-I\Programming in C\v0.69.0 source code\Upsonic-Upsonic-4c81605\src\upsonic\chat\__init__.py
+  [FILE] Semester-I\Programming in C\v0.69.0 source code\Upsonic-Upsonic-4c81605\src\upsonic\chat\chat.py
+  [FILE] Semester-I\Programming in C\v0.69.0 source code\Upsonic-Upsonic-4c81605\src\upsonic\chat\cost_calculator.py
+  [FILE] Semester-I\Programming in C\v0.69.0 source code\Upsonic-Upsonic-4c81605\src\upsonic\chat\message.py
+  [FILE] Semester-I\Programming in C\v0.69.0 source code\Upsonic-Upsonic-4c81605\src\upsonic\chat\session_manager.py
+  [FILE] Semester-I\Programming in C\v0.69.0 source code\Upsonic-Upsonic-4c81605\src\upsonic\cli\__init__.py
+  [FILE] Semester-I\Programming in C\v0.69.0 source code\Upsonic-Upsonic-4c81605\src\upsonic\cli\commands\__init__.py
+  [FILE] Semester-I\Programming in C\v0.69.0 source code\Upsonic-Upsonic-4c81605\src\upsonic\cli\commands\add\__init__.py
+  [FILE] Semester-I\Programming in C\v0.69.0 source code\Upsonic-Upsonic-4c81605\src\upsonic\cli\commands\add\command.py
+  [FILE] Semester-I\Programming in C\v0.69.0 source code\Upsonic-Upsonic-4c81605\src\upsonic\cli\commands\init\__init__.py
+  [FILE] Semester-I\Programming in C\v0.69.0 source code\Upsonic-Upsonic-4c81605\src\upsonic\cli\commands\init\command.py
+  [FILE] Semester-I\Programming in C\v0.69.0 source code\Upsonic-Upsonic-4c81605\src\upsonic\cli\commands\install\__init__.py
+  [FILE] Semester-I\Programming in C\v0.69.0 source code\Upsonic-Upsonic-4c81605\src\upsonic\cli\commands\install\command.py
+  [FILE] Semester-I\Programming in C\v0.69.0 source code\Upsonic-Upsonic-4c81605\src\upsonic\cli\commands\remove\__init__.py
+  [FILE] Semester-I\Programming in C\v0.69.0 source code\Upsonic-Upsonic-4c81605\src\upsonic\cli\commands\remove\command.py
+  [FILE] Semester-I\Programming in C\v0.69.0 source code\Upsonic-Upsonic-4c81605\src\upsonic\cli\commands\run\__init__.py
+  [FILE] Semester-I\Programming in C\v0.69.0 source code\Upsonic-Upsonic-4c81605\src\upsonic\cli\commands\run\command.py
+  [FILE] Semester-I\Programming in C\v0.69.0 source code\Upsonic-Upsonic-4c81605\src\upsonic\cli\commands\shared\__init__.py
+  [FILE] Semester-I\Programming in C\v0.69.0 source code\Upsonic-Upsonic-4c81605\src\upsonic\cli\commands\shared\config.py
+  [FILE] Semester-I\Programming in C\v0.69.0 source code\Upsonic-Upsonic-4c81605\src\upsonic\cli\commands\shared\dependencies.py
+  [FILE] Semester-I\Programming in C\v0.69.0 source code\Upsonic-Upsonic-4c81605\src\upsonic\cli\commands\shared\fastapi_imports.py
+  [FILE] Semester-I\Programming in C\v0.69.0 source code\Upsonic-Upsonic-4c81605\src\upsonic\cli\commands\shared\openapi.py
+  [FILE] Semester-I\Programming in C\v0.69.0 source code\Upsonic-Upsonic-4c81605\src\upsonic\cli\commands\zip\__init__.py
+  [FILE] Semester-I\Programming in C\v0.69.0 source code\Upsonic-Upsonic-4c81605\src\upsonic\cli\commands\zip\command.py
+  [FILE] Semester-I\Programming in C\v0.69.0 source code\Upsonic-Upsonic-4c81605\src\upsonic\cli\main.py
+  [FILE] Semester-I\Programming in C\v0.69.0 source code\Upsonic-Upsonic-4c81605\src\upsonic\cli\printer.py
+  [FILE] Semester-I\Programming in C\v0.69.0 source code\Upsonic-Upsonic-4c81605\src\upsonic\context\__init__.py
+  [FILE] Semester-I\Programming in C\v0.69.0 source code\Upsonic-Upsonic-4c81605\src\upsonic\context\agent.py
+  [FILE] Semester-I\Programming in C\v0.69.0 source code\Upsonic-Upsonic-4c81605\src\upsonic\context\default_prompt.py
+  [FILE] Semester-I\Programming in C\v0.69.0 source code\Upsonic-Upsonic-4c81605\src\upsonic\context\sources.py
+  [FILE] Semester-I\Programming in C\v0.69.0 source code\Upsonic-Upsonic-4c81605\src\upsonic\context\task.py
+  [FILE] Semester-I\Programming in C\v0.69.0 source code\Upsonic-Upsonic-4c81605\src\upsonic\db\__init__.py
+  [FILE] Semester-I\Programming in C\v0.69.0 source code\Upsonic-Upsonic-4c81605\src\upsonic\db\database.py
+  [FILE] Semester-I\Programming in C\v0.69.0 source code\Upsonic-Upsonic-4c81605\src\upsonic\direct.py
+  [FILE] Semester-I\Programming in C\v0.69.0 source code\Upsonic-Upsonic-4c81605\src\upsonic\durable\__init__.py
+  [FILE] Semester-I\Programming in C\v0.69.0 source code\Upsonic-Upsonic-4c81605\src\upsonic\durable\execution.py
+  [FILE] Semester-I\Programming in C\v0.69.0 source code\Upsonic-Upsonic-4c81605\src\upsonic\durable\serializer.py
+  [FILE] Semester-I\Programming in C\v0.69.0 source code\Upsonic-Upsonic-4c81605\src\upsonic\durable\storage.py
+  [FILE] Semester-I\Programming in C\v0.69.0 source code\Upsonic-Upsonic-4c81605\src\upsonic\durable\storages\__init__.py
+  [FILE] Semester-I\Programming in C\v0.69.0 source code\Upsonic-Upsonic-4c81605\src\upsonic\durable\storages\file.py
+  [FILE] Semester-I\Programming in C\v0.69.0 source code\Upsonic-Upsonic-4c81605\src\upsonic\durable\storages\memory.py
+  [FILE] Semester-I\Programming in C\v0.69.0 source code\Upsonic-Upsonic-4c81605\src\upsonic\durable\storages\redis.py
+  [FILE] Semester-I\Programming in C\v0.69.0 source code\Upsonic-Upsonic-4c81605\src\upsonic\durable\storages\sqlite.py
+  [FILE] Semester-I\Programming in C\v0.69.0 source code\Upsonic-Upsonic-4c81605\src\upsonic\embeddings\__init__.py
+  [FILE] Semester-I\Programming in C\v0.69.0 source code\Upsonic-Upsonic-4c81605\src\upsonic\embeddings\azure_openai_provider.py
+  [FILE] Semester-I\Programming in C\v0.69.0 source code\Upsonic-Upsonic-4c81605\src\upsonic\embeddings\base.py
+  [FILE] Semester-I\Programming in C\v0.69.0 source code\Upsonic-Upsonic-4c81605\src\upsonic\embeddings\bedrock_provider.py
+  [FILE] Semester-I\Programming in C\v0.69.0 source code\Upsonic-Upsonic-4c81605\src\upsonic\embeddings\factory.py
+  [FILE] Semester-I\Programming in C\v0.69.0 source code\Upsonic-Upsonic-4c81605\src\upsonic\embeddings\fastembed_provider.py
+  [FILE] Semester-I\Programming in C\v0.69.0 source code\Upsonic-Upsonic-4c81605\src\upsonic\embeddings\gemini_provider.py
+  [FILE] Semester-I\Programming in C\v0.69.0 source code\Upsonic-Upsonic-4c81605\src\upsonic\embeddings\huggingface_provider.py
+  [FILE] Semester-I\Programming in C\v0.69.0 source code\Upsonic-Upsonic-4c81605\src\upsonic\embeddings\ollama_provider.py
+  [FILE] Semester-I\Programming in C\v0.69.0 source code\Upsonic-Upsonic-4c81605\src\upsonic\embeddings\openai_provider.py
+  [FILE] Semester-I\Programming in C\v0.69.0 source code\Upsonic-Upsonic-4c81605\src\upsonic\eval\__init__.py
+  [FILE] Semester-I\Programming in C\v0.69.0 source code\Upsonic-Upsonic-4c81605\src\upsonic\eval\accuracy.py
+  [FILE] Semester-I\Programming in C\v0.69.0 source code\Upsonic-Upsonic-4c81605\src\upsonic\eval\models.py
+  [FILE] Semester-I\Programming in C\v0.69.0 source code\Upsonic-Upsonic-4c81605\src\upsonic\eval\performance.py
+  [FILE] Semester-I\Programming in C\v0.69.0 source code\Upsonic-Upsonic-4c81605\src\upsonic\eval\reliability.py
+  [FILE] Semester-I\Programming in C\v0.69.0 source code\Upsonic-Upsonic-4c81605\src\upsonic\exceptions.py
+  [FILE] Semester-I\Programming in C\v0.69.0 source code\Upsonic-Upsonic-4c81605\src\upsonic\graph\__init__.py
+  [FILE] Semester-I\Programming in C\v0.69.0 source code\Upsonic-Upsonic-4c81605\src\upsonic\graph\graph.py
+  [FILE] Semester-I\Programming in C\v0.69.0 source code\Upsonic-Upsonic-4c81605\src\upsonic\graphv2\__init__.py
+  [FILE] Semester-I\Programming in C\v0.69.0 source code\Upsonic-Upsonic-4c81605\src\upsonic\graphv2\cache.py
+  [FILE] Semester-I\Programming in C\v0.69.0 source code\Upsonic-Upsonic-4c81605\src\upsonic\graphv2\checkpoint.py
+  [FILE] Semester-I\Programming in C\v0.69.0 source code\Upsonic-Upsonic-4c81605\src\upsonic\graphv2\errors.py
+  [FILE] Semester-I\Programming in C\v0.69.0 source code\Upsonic-Upsonic-4c81605\src\upsonic\graphv2\primitives.py
+  [FILE] Semester-I\Programming in C\v0.69.0 source code\Upsonic-Upsonic-4c81605\src\upsonic\graphv2\state_graph.py
+  [FILE] Semester-I\Programming in C\v0.69.0 source code\Upsonic-Upsonic-4c81605\src\upsonic\graphv2\store.py
+  [FILE] Semester-I\Programming in C\v0.69.0 source code\Upsonic-Upsonic-4c81605\src\upsonic\graphv2\task.py
+  [FILE] Semester-I\Programming in C\v0.69.0 source code\Upsonic-Upsonic-4c81605\src\upsonic\interfaces\__init__.py
+  [FILE] Semester-I\Programming in C\v0.69.0 source code\Upsonic-Upsonic-4c81605\src\upsonic\interfaces\auth.py
+  [FILE] Semester-I\Programming in C\v0.69.0 source code\Upsonic-Upsonic-4c81605\src\upsonic\interfaces\base.py
+  [FILE] Semester-I\Programming in C\v0.69.0 source code\Upsonic-Upsonic-4c81605\src\upsonic\interfaces\gmail\__init__.py
+  [FILE] Semester-I\Programming in C\v0.69.0 source code\Upsonic-Upsonic-4c81605\src\upsonic\interfaces\gmail\gmail.py
+  [FILE] Semester-I\Programming in C\v0.69.0 source code\Upsonic-Upsonic-4c81605\src\upsonic\interfaces\gmail\schemas.py
+  [FILE] Semester-I\Programming in C\v0.69.0 source code\Upsonic-Upsonic-4c81605\src\upsonic\interfaces\manager.py
+  [FILE] Semester-I\Programming in C\v0.69.0 source code\Upsonic-Upsonic-4c81605\src\upsonic\interfaces\schemas.py
+  [FILE] Semester-I\Programming in C\v0.69.0 source code\Upsonic-Upsonic-4c81605\src\upsonic\interfaces\settings.py
+  [FILE] Semester-I\Programming in C\v0.69.0 source code\Upsonic-Upsonic-4c81605\src\upsonic\interfaces\slack\__init__.py
+  [FILE] Semester-I\Programming in C\v0.69.0 source code\Upsonic-Upsonic-4c81605\src\upsonic\interfaces\slack\schemas.py
+  [FILE] Semester-I\Programming in C\v0.69.0 source code\Upsonic-Upsonic-4c81605\src\upsonic\interfaces\slack\slack.py
+  [FILE] Semester-I\Programming in C\v0.69.0 source code\Upsonic-Upsonic-4c81605\src\upsonic\interfaces\websocket_manager.py
+  [FILE] Semester-I\Programming in C\v0.69.0 source code\Upsonic-Upsonic-4c81605\src\upsonic\interfaces\whatsapp\__init__.py
+  [FILE] Semester-I\Programming in C\v0.69.0 source code\Upsonic-Upsonic-4c81605\src\upsonic\interfaces\whatsapp\schemas.py
+  [FILE] Semester-I\Programming in C\v0.69.0 source code\Upsonic-Upsonic-4c81605\src\upsonic\interfaces\whatsapp\whatsapp.py
+  [FILE] Semester-I\Programming in C\v0.69.0 source code\Upsonic-Upsonic-4c81605\src\upsonic\knowledge_base\__init__.py
+  [FILE] Semester-I\Programming in C\v0.69.0 source code\Upsonic-Upsonic-4c81605\src\upsonic\knowledge_base\knowledge_base.py
+  [FILE] Semester-I\Programming in C\v0.69.0 source code\Upsonic-Upsonic-4c81605\src\upsonic\loaders\__init__.py
+  [FILE] Semester-I\Programming in C\v0.69.0 source code\Upsonic-Upsonic-4c81605\src\upsonic\loaders\base.py
+  [FILE] Semester-I\Programming in C\v0.69.0 source code\Upsonic-Upsonic-4c81605\src\upsonic\loaders\config.py
+  [FILE] Semester-I\Programming in C\v0.69.0 source code\Upsonic-Upsonic-4c81605\src\upsonic\loaders\csv.py
+  [FILE] Semester-I\Programming in C\v0.69.0 source code\Upsonic-Upsonic-4c81605\src\upsonic\loaders\docling.py
+  [FILE] Semester-I\Programming in C\v0.69.0 source code\Upsonic-Upsonic-4c81605\src\upsonic\loaders\docx.py
+  [FILE] Semester-I\Programming in C\v0.69.0 source code\Upsonic-Upsonic-4c81605\src\upsonic\loaders\factory.py
+  [FILE] Semester-I\Programming in C\v0.69.0 source code\Upsonic-Upsonic-4c81605\src\upsonic\loaders\html.py
+  [FILE] Semester-I\Programming in C\v0.69.0 source code\Upsonic-Upsonic-4c81605\src\upsonic\loaders\json.py
+  [FILE] Semester-I\Programming in C\v0.69.0 source code\Upsonic-Upsonic-4c81605\src\upsonic\loaders\markdown.py
+  [FILE] Semester-I\Programming in C\v0.69.0 source code\Upsonic-Upsonic-4c81605\src\upsonic\loaders\pdf.py
+  [FILE] Semester-I\Programming in C\v0.69.0 source code\Upsonic-Upsonic-4c81605\src\upsonic\loaders\pdfplumber.py
+  [FILE] Semester-I\Programming in C\v0.69.0 source code\Upsonic-Upsonic-4c81605\src\upsonic\loaders\pymupdf.py
+  [FILE] Semester-I\Programming in C\v0.69.0 source code\Upsonic-Upsonic-4c81605\src\upsonic\loaders\text.py
+  [FILE] Semester-I\Programming in C\v0.69.0 source code\Upsonic-Upsonic-4c81605\src\upsonic\loaders\xml.py
+  [FILE] Semester-I\Programming in C\v0.69.0 source code\Upsonic-Upsonic-4c81605\src\upsonic\loaders\yaml.py
+  [FILE] Semester-I\Programming in C\v0.69.0 source code\Upsonic-Upsonic-4c81605\src\upsonic\memory\__init__.py
+  [FILE] Semester-I\Programming in C\v0.69.0 source code\Upsonic-Upsonic-4c81605\src\upsonic\memory\memory.py
+  [FILE] Semester-I\Programming in C\v0.69.0 source code\Upsonic-Upsonic-4c81605\src\upsonic\messages\__init__.py
+  [FILE] Semester-I\Programming in C\v0.69.0 source code\Upsonic-Upsonic-4c81605\src\upsonic\messages\messages.py
+  [FILE] Semester-I\Programming in C\v0.69.0 source code\Upsonic-Upsonic-4c81605\src\upsonic\models\__init__.py
+  [FILE] Semester-I\Programming in C\v0.69.0 source code\Upsonic-Upsonic-4c81605\src\upsonic\models\_thinking_part.py
+  [FILE] Semester-I\Programming in C\v0.69.0 source code\Upsonic-Upsonic-4c81605\src\upsonic\models\anthropic.py
+  [FILE] Semester-I\Programming in C\v0.69.0 source code\Upsonic-Upsonic-4c81605\src\upsonic\models\azure.py
+  [FILE] Semester-I\Programming in C\v0.69.0 source code\Upsonic-Upsonic-4c81605\src\upsonic\models\bedrock.py
+  [FILE] Semester-I\Programming in C\v0.69.0 source code\Upsonic-Upsonic-4c81605\src\upsonic\models\cohere.py
+  [FILE] Semester-I\Programming in C\v0.69.0 source code\Upsonic-Upsonic-4c81605\src\upsonic\models\google.py
+  [FILE] Semester-I\Programming in C\v0.69.0 source code\Upsonic-Upsonic-4c81605\src\upsonic\models\grok.py
+  [FILE] Semester-I\Programming in C\v0.69.0 source code\Upsonic-Upsonic-4c81605\src\upsonic\models\groq.py
+  [FILE] Semester-I\Programming in C\v0.69.0 source code\Upsonic-Upsonic-4c81605\src\upsonic\models\huggingface.py
+  [FILE] Semester-I\Programming in C\v0.69.0 source code\Upsonic-Upsonic-4c81605\src\upsonic\models\litellm.py
+  [FILE] Semester-I\Programming in C\v0.69.0 source code\Upsonic-Upsonic-4c81605\src\upsonic\models\mistral.py
+  [FILE] Semester-I\Programming in C\v0.69.0 source code\Upsonic-Upsonic-4c81605\src\upsonic\models\model_registry.py
+  [FILE] Semester-I\Programming in C\v0.69.0 source code\Upsonic-Upsonic-4c81605\src\upsonic\models\model_selector.py
+  [FILE] Semester-I\Programming in C\v0.69.0 source code\Upsonic-Upsonic-4c81605\src\upsonic\models\nvidia.py
+  [FILE] Semester-I\Programming in C\v0.69.0 source code\Upsonic-Upsonic-4c81605\src\upsonic\models\ollama.py
+  [FILE] Semester-I\Programming in C\v0.69.0 source code\Upsonic-Upsonic-4c81605\src\upsonic\models\openai.py
+  [FILE] Semester-I\Programming in C\v0.69.0 source code\Upsonic-Upsonic-4c81605\src\upsonic\models\openrouter.py
+  [FILE] Semester-I\Programming in C\v0.69.0 source code\Upsonic-Upsonic-4c81605\src\upsonic\models\outlines.py
+  [FILE] Semester-I\Programming in C\v0.69.0 source code\Upsonic-Upsonic-4c81605\src\upsonic\models\settings.py
+  [FILE] Semester-I\Programming in C\v0.69.0 source code\Upsonic-Upsonic-4c81605\src\upsonic\models\vllm.py
+  [FILE] Semester-I\Programming in C\v0.69.0 source code\Upsonic-Upsonic-4c81605\src\upsonic\ocr\__init__.py
+  [FILE] Semester-I\Programming in C\v0.69.0 source code\Upsonic-Upsonic-4c81605\src\upsonic\ocr\base.py
+  [FILE] Semester-I\Programming in C\v0.69.0 source code\Upsonic-Upsonic-4c81605\src\upsonic\ocr\deepseek.py
+  [FILE] Semester-I\Programming in C\v0.69.0 source code\Upsonic-Upsonic-4c81605\src\upsonic\ocr\deepseek_ollama.py
+  [FILE] Semester-I\Programming in C\v0.69.0 source code\Upsonic-Upsonic-4c81605\src\upsonic\ocr\easyocr.py
+  [FILE] Semester-I\Programming in C\v0.69.0 source code\Upsonic-Upsonic-4c81605\src\upsonic\ocr\exceptions.py
+  [FILE] Semester-I\Programming in C\v0.69.0 source code\Upsonic-Upsonic-4c81605\src\upsonic\ocr\ocr.py
+  [FILE] Semester-I\Programming in C\v0.69.0 source code\Upsonic-Upsonic-4c81605\src\upsonic\ocr\paddleocr.py
+  [FILE] Semester-I\Programming in C\v0.69.0 source code\Upsonic-Upsonic-4c81605\src\upsonic\ocr\rapidocr.py
+  [FILE] Semester-I\Programming in C\v0.69.0 source code\Upsonic-Upsonic-4c81605\src\upsonic\ocr\tesseract.py
+  [FILE] Semester-I\Programming in C\v0.69.0 source code\Upsonic-Upsonic-4c81605\src\upsonic\ocr\utils.py
+  [FILE] Semester-I\Programming in C\v0.69.0 source code\Upsonic-Upsonic-4c81605\src\upsonic\output.py
+  [FILE] Semester-I\Programming in C\v0.69.0 source code\Upsonic-Upsonic-4c81605\src\upsonic\profiles\__init__.py
+  [FILE] Semester-I\Programming in C\v0.69.0 source code\Upsonic-Upsonic-4c81605\src\upsonic\profiles\amazon.py
+  [FILE] Semester-I\Programming in C\v0.69.0 source code\Upsonic-Upsonic-4c81605\src\upsonic\profiles\anthropic.py
+  [FILE] Semester-I\Programming in C\v0.69.0 source code\Upsonic-Upsonic-4c81605\src\upsonic\profiles\cohere.py
+  [FILE] Semester-I\Programming in C\v0.69.0 source code\Upsonic-Upsonic-4c81605\src\upsonic\profiles\deepseek.py
+  [FILE] Semester-I\Programming in C\v0.69.0 source code\Upsonic-Upsonic-4c81605\src\upsonic\profiles\google.py
+  [FILE] Semester-I\Programming in C\v0.69.0 source code\Upsonic-Upsonic-4c81605\src\upsonic\profiles\grok.py
+  [FILE] Semester-I\Programming in C\v0.69.0 source code\Upsonic-Upsonic-4c81605\src\upsonic\profiles\groq.py
+  [FILE] Semester-I\Programming in C\v0.69.0 source code\Upsonic-Upsonic-4c81605\src\upsonic\profiles\harmony.py
+  [FILE] Semester-I\Programming in C\v0.69.0 source code\Upsonic-Upsonic-4c81605\src\upsonic\profiles\meta.py
+  [FILE] Semester-I\Programming in C\v0.69.0 source code\Upsonic-Upsonic-4c81605\src\upsonic\profiles\mistral.py
+  [FILE] Semester-I\Programming in C\v0.69.0 source code\Upsonic-Upsonic-4c81605\src\upsonic\profiles\moonshotai.py
+  [FILE] Semester-I\Programming in C\v0.69.0 source code\Upsonic-Upsonic-4c81605\src\upsonic\profiles\nvidia.py
+  [FILE] Semester-I\Programming in C\v0.69.0 source code\Upsonic-Upsonic-4c81605\src\upsonic\profiles\openai.py
+  [FILE] Semester-I\Programming in C\v0.69.0 source code\Upsonic-Upsonic-4c81605\src\upsonic\profiles\qwen.py
+  [FILE] Semester-I\Programming in C\v0.69.0 source code\Upsonic-Upsonic-4c81605\src\upsonic\providers\__init__.py
+  [FILE] Semester-I\Programming in C\v0.69.0 source code\Upsonic-Upsonic-4c81605\src\upsonic\providers\anthropic.py
+  [FILE] Semester-I\Programming in C\v0.69.0 source code\Upsonic-Upsonic-4c81605\src\upsonic\providers\azure.py
+  [FILE] Semester-I\Programming in C\v0.69.0 source code\Upsonic-Upsonic-4c81605\src\upsonic\providers\bedrock.py
+  [FILE] Semester-I\Programming in C\v0.69.0 source code\Upsonic-Upsonic-4c81605\src\upsonic\providers\cerebras.py
+  [FILE] Semester-I\Programming in C\v0.69.0 source code\Upsonic-Upsonic-4c81605\src\upsonic\providers\cohere.py
+  [FILE] Semester-I\Programming in C\v0.69.0 source code\Upsonic-Upsonic-4c81605\src\upsonic\providers\deepseek.py
+  [FILE] Semester-I\Programming in C\v0.69.0 source code\Upsonic-Upsonic-4c81605\src\upsonic\providers\fireworks.py
+  [FILE] Semester-I\Programming in C\v0.69.0 source code\Upsonic-Upsonic-4c81605\src\upsonic\providers\gateway.py
+  [FILE] Semester-I\Programming in C\v0.69.0 source code\Upsonic-Upsonic-4c81605\src\upsonic\providers\github.py
+  [FILE] Semester-I\Programming in C\v0.69.0 source code\Upsonic-Upsonic-4c81605\src\upsonic\providers\google.py
+  [FILE] Semester-I\Programming in C\v0.69.0 source code\Upsonic-Upsonic-4c81605\src\upsonic\providers\grok.py
+  [FILE] Semester-I\Programming in C\v0.69.0 source code\Upsonic-Upsonic-4c81605\src\upsonic\providers\groq.py
+  [FILE] Semester-I\Programming in C\v0.69.0 source code\Upsonic-Upsonic-4c81605\src\upsonic\providers\heroku.py
+  [FILE] Semester-I\Programming in C\v0.69.0 source code\Upsonic-Upsonic-4c81605\src\upsonic\providers\huggingface.py
+  [FILE] Semester-I\Programming in C\v0.69.0 source code\Upsonic-Upsonic-4c81605\src\upsonic\providers\litellm.py
+  [FILE] Semester-I\Programming in C\v0.69.0 source code\Upsonic-Upsonic-4c81605\src\upsonic\providers\mistral.py
+  [FILE] Semester-I\Programming in C\v0.69.0 source code\Upsonic-Upsonic-4c81605\src\upsonic\providers\moonshotai.py
+  [FILE] Semester-I\Programming in C\v0.69.0 source code\Upsonic-Upsonic-4c81605\src\upsonic\providers\nvidia.py
+  [FILE] Semester-I\Programming in C\v0.69.0 source code\Upsonic-Upsonic-4c81605\src\upsonic\providers\ollama.py
+  [FILE] Semester-I\Programming in C\v0.69.0 source code\Upsonic-Upsonic-4c81605\src\upsonic\providers\openai.py
+  [FILE] Semester-I\Programming in C\v0.69.0 source code\Upsonic-Upsonic-4c81605\src\upsonic\providers\openrouter.py
+  [FILE] Semester-I\Programming in C\v0.69.0 source code\Upsonic-Upsonic-4c81605\src\upsonic\providers\outlines.py
+  [FILE] Semester-I\Programming in C\v0.69.0 source code\Upsonic-Upsonic-4c81605\src\upsonic\providers\ovhcloud.py
+  [FILE] Semester-I\Programming in C\v0.69.0 source code\Upsonic-Upsonic-4c81605\src\upsonic\providers\together.py
+  [FILE] Semester-I\Programming in C\v0.69.0 source code\Upsonic-Upsonic-4c81605\src\upsonic\providers\vercel.py
+  [FILE] Semester-I\Programming in C\v0.69.0 source code\Upsonic-Upsonic-4c81605\src\upsonic\providers\vllm.py
+  [FILE] Semester-I\Programming in C\v0.69.0 source code\Upsonic-Upsonic-4c81605\src\upsonic\py.typed
+  [FILE] Semester-I\Programming in C\v0.69.0 source code\Upsonic-Upsonic-4c81605\src\upsonic\reflection\__init__.py
+  [FILE] Semester-I\Programming in C\v0.69.0 source code\Upsonic-Upsonic-4c81605\src\upsonic\reflection\models.py
+  [FILE] Semester-I\Programming in C\v0.69.0 source code\Upsonic-Upsonic-4c81605\src\upsonic\reflection\processor.py
+  [FILE] Semester-I\Programming in C\v0.69.0 source code\Upsonic-Upsonic-4c81605\src\upsonic\reliability_layer\reliability_layer.py
+  [FILE] Semester-I\Programming in C\v0.69.0 source code\Upsonic-Upsonic-4c81605\src\upsonic\safety_engine\__init__.py
+  [FILE] Semester-I\Programming in C\v0.69.0 source code\Upsonic-Upsonic-4c81605\src\upsonic\safety_engine\base\__init__.py
+  [FILE] Semester-I\Programming in C\v0.69.0 source code\Upsonic-Upsonic-4c81605\src\upsonic\safety_engine\base\action_base.py
+  [FILE] Semester-I\Programming in C\v0.69.0 source code\Upsonic-Upsonic-4c81605\src\upsonic\safety_engine\base\policy.py
+  [FILE] Semester-I\Programming in C\v0.69.0 source code\Upsonic-Upsonic-4c81605\src\upsonic\safety_engine\base\rule_base.py
+  [FILE] Semester-I\Programming in C\v0.69.0 source code\Upsonic-Upsonic-4c81605\src\upsonic\safety_engine\exceptions.py
+  [FILE] Semester-I\Programming in C\v0.69.0 source code\Upsonic-Upsonic-4c81605\src\upsonic\safety_engine\llm\__init__.py
+  [FILE] Semester-I\Programming in C\v0.69.0 source code\Upsonic-Upsonic-4c81605\src\upsonic\safety_engine\llm\upsonic_llm.py
+  [FILE] Semester-I\Programming in C\v0.69.0 source code\Upsonic-Upsonic-4c81605\src\upsonic\safety_engine\models.py
+  [FILE] Semester-I\Programming in C\v0.69.0 source code\Upsonic-Upsonic-4c81605\src\upsonic\safety_engine\policies\__init__.py
+  [FILE] Semester-I\Programming in C\v0.69.0 source code\Upsonic-Upsonic-4c81605\src\upsonic\safety_engine\policies\adult_content_policies.py
+  [FILE] Semester-I\Programming in C\v0.69.0 source code\Upsonic-Upsonic-4c81605\src\upsonic\safety_engine\policies\crypto_policies.py
+  [FILE] Semester-I\Programming in C\v0.69.0 source code\Upsonic-Upsonic-4c81605\src\upsonic\safety_engine\policies\cybersecurity_policies.py
+  [FILE] Semester-I\Programming in C\v0.69.0 source code\Upsonic-Upsonic-4c81605\src\upsonic\safety_engine\policies\data_privacy_policies.py
+  [FILE] Semester-I\Programming in C\v0.69.0 source code\Upsonic-Upsonic-4c81605\src\upsonic\safety_engine\policies\financial_policies.py
+  [FILE] Semester-I\Programming in C\v0.69.0 source code\Upsonic-Upsonic-4c81605\src\upsonic\safety_engine\policies\fraud_detection_policies.py
+  [FILE] Semester-I\Programming in C\v0.69.0 source code\Upsonic-Upsonic-4c81605\src\upsonic\safety_engine\policies\insider_threat_policies.py
+  [FILE] Semester-I\Programming in C\v0.69.0 source code\Upsonic-Upsonic-4c81605\src\upsonic\safety_engine\policies\legal_policies.py
+  [FILE] Semester-I\Programming in C\v0.69.0 source code\Upsonic-Upsonic-4c81605\src\upsonic\safety_engine\policies\medical_policies.py
+  [FILE] Semester-I\Programming in C\v0.69.0 source code\Upsonic-Upsonic-4c81605\src\upsonic\safety_engine\policies\phishing_policies.py
+  [FILE] Semester-I\Programming in C\v0.69.0 source code\Upsonic-Upsonic-4c81605\src\upsonic\safety_engine\policies\phone_policies.py
+  [FILE] Semester-I\Programming in C\v0.69.0 source code\Upsonic-Upsonic-4c81605\src\upsonic\safety_engine\policies\pii_policies.py
+  [FILE] Semester-I\Programming in C\v0.69.0 source code\Upsonic-Upsonic-4c81605\src\upsonic\safety_engine\policies\profanity_policies.py
+  [FILE] Semester-I\Programming in C\v0.69.0 source code\Upsonic-Upsonic-4c81605\src\upsonic\safety_engine\policies\sensitive_social_policies.py
+  [FILE] Semester-I\Programming in C\v0.69.0 source code\Upsonic-Upsonic-4c81605\src\upsonic\safety_engine\policies\technical_policies.py
+  [FILE] Semester-I\Programming in C\v0.69.0 source code\Upsonic-Upsonic-4c81605\src\upsonic\safety_engine\policies\tool_safety_policies.py
+  [FILE] Semester-I\Programming in C\v0.69.0 source code\Upsonic-Upsonic-4c81605\src\upsonic\schemas\__init__.py
+  [FILE] Semester-I\Programming in C\v0.69.0 source code\Upsonic-Upsonic-4c81605\src\upsonic\schemas\agentic.py
+  [FILE] Semester-I\Programming in C\v0.69.0 source code\Upsonic-Upsonic-4c81605\src\upsonic\schemas\data_models.py
+  [FILE] Semester-I\Programming in C\v0.69.0 source code\Upsonic-Upsonic-4c81605\src\upsonic\schemas\user.py
+  [FILE] Semester-I\Programming in C\v0.69.0 source code\Upsonic-Upsonic-4c81605\src\upsonic\schemas\vector_schemas.py
+  [FILE] Semester-I\Programming in C\v0.69.0 source code\Upsonic-Upsonic-4c81605\src\upsonic\storage\__init__.py
+  [FILE] Semester-I\Programming in C\v0.69.0 source code\Upsonic-Upsonic-4c81605\src\upsonic\storage\base.py
+  [FILE] Semester-I\Programming in C\v0.69.0 source code\Upsonic-Upsonic-4c81605\src\upsonic\storage\memory\__init__.py
+  [FILE] Semester-I\Programming in C\v0.69.0 source code\Upsonic-Upsonic-4c81605\src\upsonic\storage\memory\memory.py
+  [FILE] Semester-I\Programming in C\v0.69.0 source code\Upsonic-Upsonic-4c81605\src\upsonic\storage\providers\__init__.py
+  [FILE] Semester-I\Programming in C\v0.69.0 source code\Upsonic-Upsonic-4c81605\src\upsonic\storage\providers\in_memory.py
+  [FILE] Semester-I\Programming in C\v0.69.0 source code\Upsonic-Upsonic-4c81605\src\upsonic\storage\providers\json.py
+  [FILE] Semester-I\Programming in C\v0.69.0 source code\Upsonic-Upsonic-4c81605\src\upsonic\storage\providers\mem0.py
+  [FILE] Semester-I\Programming in C\v0.69.0 source code\Upsonic-Upsonic-4c81605\src\upsonic\storage\providers\mongo.py
+  [FILE] Semester-I\Programming in C\v0.69.0 source code\Upsonic-Upsonic-4c81605\src\upsonic\storage\providers\postgres.py
+  [FILE] Semester-I\Programming in C\v0.69.0 source code\Upsonic-Upsonic-4c81605\src\upsonic\storage\providers\redis.py
+  [FILE] Semester-I\Programming in C\v0.69.0 source code\Upsonic-Upsonic-4c81605\src\upsonic\storage\providers\sqlite.py
+  [FILE] Semester-I\Programming in C\v0.69.0 source code\Upsonic-Upsonic-4c81605\src\upsonic\storage\session\__init__.py
+  [FILE] Semester-I\Programming in C\v0.69.0 source code\Upsonic-Upsonic-4c81605\src\upsonic\storage\session\sessions.py
+  [FILE] Semester-I\Programming in C\v0.69.0 source code\Upsonic-Upsonic-4c81605\src\upsonic\storage\types.py
+  [FILE] Semester-I\Programming in C\v0.69.0 source code\Upsonic-Upsonic-4c81605\src\upsonic\tasks\tasks.py
+  [FILE] Semester-I\Programming in C\v0.69.0 source code\Upsonic-Upsonic-4c81605\src\upsonic\team\__init__.py
+  [FILE] Semester-I\Programming in C\v0.69.0 source code\Upsonic-Upsonic-4c81605\src\upsonic\team\context_sharing.py
+  [FILE] Semester-I\Programming in C\v0.69.0 source code\Upsonic-Upsonic-4c81605\src\upsonic\team\coordinator_setup.py
+  [FILE] Semester-I\Programming in C\v0.69.0 source code\Upsonic-Upsonic-4c81605\src\upsonic\team\delegation_manager.py
+  [FILE] Semester-I\Programming in C\v0.69.0 source code\Upsonic-Upsonic-4c81605\src\upsonic\team\result_combiner.py
+  [FILE] Semester-I\Programming in C\v0.69.0 source code\Upsonic-Upsonic-4c81605\src\upsonic\team\task_assignment.py
+  [FILE] Semester-I\Programming in C\v0.69.0 source code\Upsonic-Upsonic-4c81605\src\upsonic\team\team.py
+  [FILE] Semester-I\Programming in C\v0.69.0 source code\Upsonic-Upsonic-4c81605\src\upsonic\text_splitter\__init__.py
+  [FILE] Semester-I\Programming in C\v0.69.0 source code\Upsonic-Upsonic-4c81605\src\upsonic\text_splitter\agentic.py
+  [FILE] Semester-I\Programming in C\v0.69.0 source code\Upsonic-Upsonic-4c81605\src\upsonic\text_splitter\base.py
+  [FILE] Semester-I\Programming in C\v0.69.0 source code\Upsonic-Upsonic-4c81605\src\upsonic\text_splitter\character.py
+  [FILE] Semester-I\Programming in C\v0.69.0 source code\Upsonic-Upsonic-4c81605\src\upsonic\text_splitter\factory.py
+  [FILE] Semester-I\Programming in C\v0.69.0 source code\Upsonic-Upsonic-4c81605\src\upsonic\text_splitter\html_chunker.py
+  [FILE] Semester-I\Programming in C\v0.69.0 source code\Upsonic-Upsonic-4c81605\src\upsonic\text_splitter\json_chunker.py
+  [FILE] Semester-I\Programming in C\v0.69.0 source code\Upsonic-Upsonic-4c81605\src\upsonic\text_splitter\markdown.py
+  [FILE] Semester-I\Programming in C\v0.69.0 source code\Upsonic-Upsonic-4c81605\src\upsonic\text_splitter\python.py
+  [FILE] Semester-I\Programming in C\v0.69.0 source code\Upsonic-Upsonic-4c81605\src\upsonic\text_splitter\recursive.py
+  [FILE] Semester-I\Programming in C\v0.69.0 source code\Upsonic-Upsonic-4c81605\src\upsonic\text_splitter\semantic.py
+  [FILE] Semester-I\Programming in C\v0.69.0 source code\Upsonic-Upsonic-4c81605\src\upsonic\tools\__init__.py
+  [FILE] Semester-I\Programming in C\v0.69.0 source code\Upsonic-Upsonic-4c81605\src\upsonic\tools\base.py
+  [FILE] Semester-I\Programming in C\v0.69.0 source code\Upsonic-Upsonic-4c81605\src\upsonic\tools\builtin_tools.py
+  [FILE] Semester-I\Programming in C\v0.69.0 source code\Upsonic-Upsonic-4c81605\src\upsonic\tools\common_tools\__init__.py
+  [FILE] Semester-I\Programming in C\v0.69.0 source code\Upsonic-Upsonic-4c81605\src\upsonic\tools\common_tools\duckduckgo.py
+  [FILE] Semester-I\Programming in C\v0.69.0 source code\Upsonic-Upsonic-4c81605\src\upsonic\tools\common_tools\financial_tools.py
+  [FILE] Semester-I\Programming in C\v0.69.0 source code\Upsonic-Upsonic-4c81605\src\upsonic\tools\common_tools\tavily.py
+  [FILE] Semester-I\Programming in C\v0.69.0 source code\Upsonic-Upsonic-4c81605\src\upsonic\tools\config.py
+  [FILE] Semester-I\Programming in C\v0.69.0 source code\Upsonic-Upsonic-4c81605\src\upsonic\tools\custom_tools\__init__.py
+  [FILE] Semester-I\Programming in C\v0.69.0 source code\Upsonic-Upsonic-4c81605\src\upsonic\tools\custom_tools\gmail.py
+  [FILE] Semester-I\Programming in C\v0.69.0 source code\Upsonic-Upsonic-4c81605\src\upsonic\tools\custom_tools\slack.py
+  [FILE] Semester-I\Programming in C\v0.69.0 source code\Upsonic-Upsonic-4c81605\src\upsonic\tools\custom_tools\whatsapp.py
+  [FILE] Semester-I\Programming in C\v0.69.0 source code\Upsonic-Upsonic-4c81605\src\upsonic\tools\deferred.py
+  [FILE] Semester-I\Programming in C\v0.69.0 source code\Upsonic-Upsonic-4c81605\src\upsonic\tools\mcp.py
+  [FILE] Semester-I\Programming in C\v0.69.0 source code\Upsonic-Upsonic-4c81605\src\upsonic\tools\metrics.py
+  [FILE] Semester-I\Programming in C\v0.69.0 source code\Upsonic-Upsonic-4c81605\src\upsonic\tools\orchestration.py
+  [FILE] Semester-I\Programming in C\v0.69.0 source code\Upsonic-Upsonic-4c81605\src\upsonic\tools\processor.py
+  [FILE] Semester-I\Programming in C\v0.69.0 source code\Upsonic-Upsonic-4c81605\src\upsonic\tools\schema.py
+  [FILE] Semester-I\Programming in C\v0.69.0 source code\Upsonic-Upsonic-4c81605\src\upsonic\tools\wrappers.py
+  [FILE] Semester-I\Programming in C\v0.69.0 source code\Upsonic-Upsonic-4c81605\src\upsonic\uel\__init__.py
+  [FILE] Semester-I\Programming in C\v0.69.0 source code\Upsonic-Upsonic-4c81605\src\upsonic\uel\branch.py
+  [FILE] Semester-I\Programming in C\v0.69.0 source code\Upsonic-Upsonic-4c81605\src\upsonic\uel\decorator.py
+  [FILE] Semester-I\Programming in C\v0.69.0 source code\Upsonic-Upsonic-4c81605\src\upsonic\uel\graph.py
+  [FILE] Semester-I\Programming in C\v0.69.0 source code\Upsonic-Upsonic-4c81605\src\upsonic\uel\lambda_runnable.py
+  [FILE] Semester-I\Programming in C\v0.69.0 source code\Upsonic-Upsonic-4c81605\src\upsonic\uel\output_parser.py
+  [FILE] Semester-I\Programming in C\v0.69.0 source code\Upsonic-Upsonic-4c81605\src\upsonic\uel\parallel.py
+  [FILE] Semester-I\Programming in C\v0.69.0 source code\Upsonic-Upsonic-4c81605\src\upsonic\uel\passthrough.py
+  [FILE] Semester-I\Programming in C\v0.69.0 source code\Upsonic-Upsonic-4c81605\src\upsonic\uel\prompt.py
+  [FILE] Semester-I\Programming in C\v0.69.0 source code\Upsonic-Upsonic-4c81605\src\upsonic\uel\runnable.py
+  [FILE] Semester-I\Programming in C\v0.69.0 source code\Upsonic-Upsonic-4c81605\src\upsonic\uel\sequence.py
+  [FILE] Semester-I\Programming in C\v0.69.0 source code\Upsonic-Upsonic-4c81605\src\upsonic\usage.py
+  [FILE] Semester-I\Programming in C\v0.69.0 source code\Upsonic-Upsonic-4c81605\src\upsonic\utils\__init__.py
+  [FILE] Semester-I\Programming in C\v0.69.0 source code\Upsonic-Upsonic-4c81605\src\upsonic\utils\async_utils.py
+  [FILE] Semester-I\Programming in C\v0.69.0 source code\Upsonic-Upsonic-4c81605\src\upsonic\utils\error_wrapper.py
+  [FILE] Semester-I\Programming in C\v0.69.0 source code\Upsonic-Upsonic-4c81605\src\upsonic\utils\file_helpers.py
+  [FILE] Semester-I\Programming in C\v0.69.0 source code\Upsonic-Upsonic-4c81605\src\upsonic\utils\image.py
+  [FILE] Semester-I\Programming in C\v0.69.0 source code\Upsonic-Upsonic-4c81605\src\upsonic\utils\integrations\whatsapp.py
+  [FILE] Semester-I\Programming in C\v0.69.0 source code\Upsonic-Upsonic-4c81605\src\upsonic\utils\llm_usage.py
+  [FILE] Semester-I\Programming in C\v0.69.0 source code\Upsonic-Upsonic-4c81605\src\upsonic\utils\logging_config.py
+  [FILE] Semester-I\Programming in C\v0.69.0 source code\Upsonic-Upsonic-4c81605\src\upsonic\utils\package\__init__.py
+  [FILE] Semester-I\Programming in C\v0.69.0 source code\Upsonic-Upsonic-4c81605\src\upsonic\utils\package\exception.py
+  [FILE] Semester-I\Programming in C\v0.69.0 source code\Upsonic-Upsonic-4c81605\src\upsonic\utils\package\get_version.py
+  [FILE] Semester-I\Programming in C\v0.69.0 source code\Upsonic-Upsonic-4c81605\src\upsonic\utils\package\storage.py
+  [FILE] Semester-I\Programming in C\v0.69.0 source code\Upsonic-Upsonic-4c81605\src\upsonic\utils\package\system_id.py
+  [FILE] Semester-I\Programming in C\v0.69.0 source code\Upsonic-Upsonic-4c81605\src\upsonic\utils\printing.py
+  [FILE] Semester-I\Programming in C\v0.69.0 source code\Upsonic-Upsonic-4c81605\src\upsonic\utils\retry.py
+  [FILE] Semester-I\Programming in C\v0.69.0 source code\Upsonic-Upsonic-4c81605\src\upsonic\utils\tool_usage.py
+  [FILE] Semester-I\Programming in C\v0.69.0 source code\Upsonic-Upsonic-4c81605\src\upsonic\utils\validators.py
+  [FILE] Semester-I\Programming in C\v0.69.0 source code\Upsonic-Upsonic-4c81605\src\upsonic\vectordb\__init__.py
+  [FILE] Semester-I\Programming in C\v0.69.0 source code\Upsonic-Upsonic-4c81605\src\upsonic\vectordb\base.py
+  [FILE] Semester-I\Programming in C\v0.69.0 source code\Upsonic-Upsonic-4c81605\src\upsonic\vectordb\config.py
+  [FILE] Semester-I\Programming in C\v0.69.0 source code\Upsonic-Upsonic-4c81605\src\upsonic\vectordb\factory.py
+  [FILE] Semester-I\Programming in C\v0.69.0 source code\Upsonic-Upsonic-4c81605\src\upsonic\vectordb\providers\chroma.py
+  [FILE] Semester-I\Programming in C\v0.69.0 source code\Upsonic-Upsonic-4c81605\src\upsonic\vectordb\providers\faiss.py
+  [FILE] Semester-I\Programming in C\v0.69.0 source code\Upsonic-Upsonic-4c81605\src\upsonic\vectordb\providers\milvus.py
+  [FILE] Semester-I\Programming in C\v0.69.0 source code\Upsonic-Upsonic-4c81605\src\upsonic\vectordb\providers\pgvector.py
+  [FILE] Semester-I\Programming in C\v0.69.0 source code\Upsonic-Upsonic-4c81605\src\upsonic\vectordb\providers\pinecone.py
+  [FILE] Semester-I\Programming in C\v0.69.0 source code\Upsonic-Upsonic-4c81605\src\upsonic\vectordb\providers\qdrant.py
+  [FILE] Semester-I\Programming in C\v0.69.0 source code\Upsonic-Upsonic-4c81605\src\upsonic\vectordb\providers\weaviate.py
+  [FILE] Semester-I\Programming in C\v0.69.0 source code\Upsonic-Upsonic-4c81605\tests\conftest.py
+  [FILE] Semester-I\Programming in C\v0.69.0 source code\Upsonic-Upsonic-4c81605\tests\playground.py
+  [FILE] Semester-I\Programming in C\v0.69.0 source code\Upsonic-Upsonic-4c81605\tests\smoke_tests\docker-compose.yml
+  [FILE] Semester-I\Programming in C\v0.69.0 source code\Upsonic-Upsonic-4c81605\tests\smoke_tests\DOCKER_SETUP.md
+  [FILE] Semester-I\Programming in C\v0.69.0 source code\Upsonic-Upsonic-4c81605\tests\smoke_tests\stream_events_example.py
+  [FILE] Semester-I\Programming in C\v0.69.0 source code\Upsonic-Upsonic-4c81605\tests\smoke_tests\test_agent_policies.py
+  [FILE] Semester-I\Programming in C\v0.69.0 source code\Upsonic-Upsonic-4c81605\tests\smoke_tests\test_agent_streaming.py
+  [FILE] Semester-I\Programming in C\v0.69.0 source code\Upsonic-Upsonic-4c81605\tests\smoke_tests\test_ask_other_team_members.py
+  [FILE] Semester-I\Programming in C\v0.69.0 source code\Upsonic-Upsonic-4c81605\tests\smoke_tests\test_chat.py
+  [FILE] Semester-I\Programming in C\v0.69.0 source code\Upsonic-Upsonic-4c81605\tests\smoke_tests\test_chunkers.py
+  [FILE] Semester-I\Programming in C\v0.69.0 source code\Upsonic-Upsonic-4c81605\tests\smoke_tests\test_cli.py
+  [FILE] Semester-I\Programming in C\v0.69.0 source code\Upsonic-Upsonic-4c81605\tests\smoke_tests\test_deepagent.py
+  [FILE] Semester-I\Programming in C\v0.69.0 source code\Upsonic-Upsonic-4c81605\tests\smoke_tests\test_enabled_thinking_tool.py
+  [FILE] Semester-I\Programming in C\v0.69.0 source code\Upsonic-Upsonic-4c81605\tests\smoke_tests\test_eval_reliability.py
+  [FILE] Semester-I\Programming in C\v0.69.0 source code\Upsonic-Upsonic-4c81605\tests\smoke_tests\test_eval_team.py
+  [FILE] Semester-I\Programming in C\v0.69.0 source code\Upsonic-Upsonic-4c81605\tests\smoke_tests\test_graph.py
+  [FILE] Semester-I\Programming in C\v0.69.0 source code\Upsonic-Upsonic-4c81605\tests\smoke_tests\test_image_input_output.py
+  [FILE] Semester-I\Programming in C\v0.69.0 source code\Upsonic-Upsonic-4c81605\tests\smoke_tests\test_knowledgebase_as_tool.py
+  [FILE] Semester-I\Programming in C\v0.69.0 source code\Upsonic-Upsonic-4c81605\tests\smoke_tests\test_knowledgebase_context.py
+  [FILE] Semester-I\Programming in C\v0.69.0 source code\Upsonic-Upsonic-4c81605\tests\smoke_tests\test_loaders.py
+  [FILE] Semester-I\Programming in C\v0.69.0 source code\Upsonic-Upsonic-4c81605\tests\smoke_tests\test_model_selection.py
+  [FILE] Semester-I\Programming in C\v0.69.0 source code\Upsonic-Upsonic-4c81605\tests\smoke_tests\test_policy_feedback.py
+  [FILE] Semester-I\Programming in C\v0.69.0 source code\Upsonic-Upsonic-4c81605\tests\smoke_tests\test_policy_feedback_debug.py
+  [FILE] Semester-I\Programming in C\v0.69.0 source code\Upsonic-Upsonic-4c81605\tests\smoke_tests\test_policy_feedback_simple.py
+  [FILE] Semester-I\Programming in C\v0.69.0 source code\Upsonic-Upsonic-4c81605\tests\smoke_tests\test_profanity_policies.py
+  [FILE] Semester-I\Programming in C\v0.69.0 source code\Upsonic-Upsonic-4c81605\tests\smoke_tests\test_reflection.py
+  [FILE] Semester-I\Programming in C\v0.69.0 source code\Upsonic-Upsonic-4c81605\tests\smoke_tests\test_show_tool_calls.py
+  [FILE] Semester-I\Programming in C\v0.69.0 source code\Upsonic-Upsonic-4c81605\tests\smoke_tests\test_smoke_agent.py
+  [FILE] Semester-I\Programming in C\v0.69.0 source code\Upsonic-Upsonic-4c81605\tests\smoke_tests\test_smoke_logging.py
+  [FILE] Semester-I\Programming in C\v0.69.0 source code\Upsonic-Upsonic-4c81605\tests\smoke_tests\test_smoke_mcp.py
+  [FILE] Semester-I\Programming in C\v0.69.0 source code\Upsonic-Upsonic-4c81605\tests\smoke_tests\test_smoke_models.py
+  [FILE] Semester-I\Programming in C\v0.69.0 source code\Upsonic-Upsonic-4c81605\tests\smoke_tests\test_smoke_task.py
+  [FILE] Semester-I\Programming in C\v0.69.0 source code\Upsonic-Upsonic-4c81605\tests\smoke_tests\test_smoke_team.py
+  [FILE] Semester-I\Programming in C\v0.69.0 source code\Upsonic-Upsonic-4c81605\tests\smoke_tests\test_storage_dynamic_profile.py
+  [FILE] Semester-I\Programming in C\v0.69.0 source code\Upsonic-Upsonic-4c81605\tests\smoke_tests\test_storage_full_memory.py
+  [FILE] Semester-I\Programming in C\v0.69.0 source code\Upsonic-Upsonic-4c81605\tests\smoke_tests\test_storage_user_profile_schema.py
+  [FILE] Semester-I\Programming in C\v0.69.0 source code\Upsonic-Upsonic-4c81605\tests\smoke_tests\test_stream_events.py
+  [FILE] Semester-I\Programming in C\v0.69.0 source code\Upsonic-Upsonic-4c81605\tests\smoke_tests\test_structured_task_output.py
+  [FILE] Semester-I\Programming in C\v0.69.0 source code\Upsonic-Upsonic-4c81605\tests\smoke_tests\test_structured_team_output.py
+  [FILE] Semester-I\Programming in C\v0.69.0 source code\Upsonic-Upsonic-4c81605\tests\smoke_tests\test_structured_tool_io.py
+  [FILE] Semester-I\Programming in C\v0.69.0 source code\Upsonic-Upsonic-4c81605\tests\smoke_tests\test_task_cache.py
+  [FILE] Semester-I\Programming in C\v0.69.0 source code\Upsonic-Upsonic-4c81605\tests\smoke_tests\test_task_guardrail.py
+  [FILE] Semester-I\Programming in C\v0.69.0 source code\Upsonic-Upsonic-4c81605\tests\smoke_tests\test_task_search_parameters.py
+  [FILE] Semester-I\Programming in C\v0.69.0 source code\Upsonic-Upsonic-4c81605\tests\smoke_tests\test_team_modes.py
+  [FILE] Semester-I\Programming in C\v0.69.0 source code\Upsonic-Upsonic-4c81605\tests\smoke_tests\test_tool_call_limit.py
+  [FILE] Semester-I\Programming in C\v0.69.0 source code\Upsonic-Upsonic-4c81605\tests\smoke_tests\test_tool_config_attributes.py
+  [FILE] Semester-I\Programming in C\v0.69.0 source code\Upsonic-Upsonic-4c81605\tests\smoke_tests\test_tool_hitl_attributes.py
+  [FILE] Semester-I\Programming in C\v0.69.0 source code\Upsonic-Upsonic-4c81605\tests\smoke_tests\test_tool_management.py
+  [FILE] Semester-I\Programming in C\v0.69.0 source code\Upsonic-Upsonic-4c81605\tests\unit_tests\__init__.py
+  [FILE] Semester-I\Programming in C\v0.69.0 source code\Upsonic-Upsonic-4c81605\tests\unit_tests\agent\test_context_managers.py
+  [FILE] Semester-I\Programming in C\v0.69.0 source code\Upsonic-Upsonic-4c81605\tests\unit_tests\agent\test_deep_agent.py
+  [FILE] Semester-I\Programming in C\v0.69.0 source code\Upsonic-Upsonic-4c81605\tests\unit_tests\agent\test_direct.py
+  [FILE] Semester-I\Programming in C\v0.69.0 source code\Upsonic-Upsonic-4c81605\tests\unit_tests\agent\test_policy_manager.py
+  [FILE] Semester-I\Programming in C\v0.69.0 source code\Upsonic-Upsonic-4c81605\tests\unit_tests\graph\test_graph.py
+  [FILE] Semester-I\Programming in C\v0.69.0 source code\Upsonic-Upsonic-4c81605\tests\unit_tests\graph\test_graphv2.py
+  [FILE] Semester-I\Programming in C\v0.69.0 source code\Upsonic-Upsonic-4c81605\tests\unit_tests\graph\test_graphv2_cache.py
+  [FILE] Semester-I\Programming in C\v0.69.0 source code\Upsonic-Upsonic-4c81605\tests\unit_tests\graph\test_graphv2_checkpoint.py
+  [FILE] Semester-I\Programming in C\v0.69.0 source code\Upsonic-Upsonic-4c81605\tests\unit_tests\graph\test_graphv2_store.py
+  [FILE] Semester-I\Programming in C\v0.69.0 source code\Upsonic-Upsonic-4c81605\tests\unit_tests\playground.py
+  [FILE] Semester-I\Programming in C\v0.69.0 source code\Upsonic-Upsonic-4c81605\tests\unit_tests\rag\chunking\test_agentic_chunking_simple.py
+  [FILE] Semester-I\Programming in C\v0.69.0 source code\Upsonic-Upsonic-4c81605\tests\unit_tests\rag\chunking\test_character_chunking_simple.py
+  [FILE] Semester-I\Programming in C\v0.69.0 source code\Upsonic-Upsonic-4c81605\tests\unit_tests\rag\chunking\test_html_chunking_simple.py
+  [FILE] Semester-I\Programming in C\v0.69.0 source code\Upsonic-Upsonic-4c81605\tests\unit_tests\rag\chunking\test_json_chunking_simple.py
+  [FILE] Semester-I\Programming in C\v0.69.0 source code\Upsonic-Upsonic-4c81605\tests\unit_tests\rag\chunking\test_markdown_header_chunking_simple.py
+  [FILE] Semester-I\Programming in C\v0.69.0 source code\Upsonic-Upsonic-4c81605\tests\unit_tests\rag\chunking\test_python_chunking_simple.py
+  [FILE] Semester-I\Programming in C\v0.69.0 source code\Upsonic-Upsonic-4c81605\tests\unit_tests\rag\chunking\test_recursive_chunking_simple.py
+  [FILE] Semester-I\Programming in C\v0.69.0 source code\Upsonic-Upsonic-4c81605\tests\unit_tests\rag\chunking\test_semantic_chunking_simple.py
+  [FILE] Semester-I\Programming in C\v0.69.0 source code\Upsonic-Upsonic-4c81605\tests\unit_tests\rag\embeddings\test_embedding_providers.py
+  [FILE] Semester-I\Programming in C\v0.69.0 source code\Upsonic-Upsonic-4c81605\tests\unit_tests\rag\loaders\test_csv_loader_simple.py
+  [FILE] Semester-I\Programming in C\v0.69.0 source code\Upsonic-Upsonic-4c81605\tests\unit_tests\rag\loaders\test_docling_loader.py
+  [FILE] Semester-I\Programming in C\v0.69.0 source code\Upsonic-Upsonic-4c81605\tests\unit_tests\rag\loaders\test_docx_loader_simple.py
+  [FILE] Semester-I\Programming in C\v0.69.0 source code\Upsonic-Upsonic-4c81605\tests\unit_tests\rag\loaders\test_html_loader_simple.py
+  [FILE] Semester-I\Programming in C\v0.69.0 source code\Upsonic-Upsonic-4c81605\tests\unit_tests\rag\loaders\test_json_loader_simple.py
+  [FILE] Semester-I\Programming in C\v0.69.0 source code\Upsonic-Upsonic-4c81605\tests\unit_tests\rag\loaders\test_markdown_loader_simple.py
+  [FILE] Semester-I\Programming in C\v0.69.0 source code\Upsonic-Upsonic-4c81605\tests\unit_tests\rag\loaders\test_pdf_loader_simple.py
+  [FILE] Semester-I\Programming in C\v0.69.0 source code\Upsonic-Upsonic-4c81605\tests\unit_tests\rag\loaders\test_pdfplumber.py
+  [FILE] Semester-I\Programming in C\v0.69.0 source code\Upsonic-Upsonic-4c81605\tests\unit_tests\rag\loaders\test_pdfplumber_ocr.py
+  [FILE] Semester-I\Programming in C\v0.69.0 source code\Upsonic-Upsonic-4c81605\tests\unit_tests\rag\loaders\test_pymupdf_loader_simple.py
+  [FILE] Semester-I\Programming in C\v0.69.0 source code\Upsonic-Upsonic-4c81605\tests\unit_tests\rag\loaders\test_text_loader_simple.py
+  [FILE] Semester-I\Programming in C\v0.69.0 source code\Upsonic-Upsonic-4c81605\tests\unit_tests\rag\loaders\test_xml_loader_simple.py
+  [FILE] Semester-I\Programming in C\v0.69.0 source code\Upsonic-Upsonic-4c81605\tests\unit_tests\rag\loaders\test_yaml_loader_simple.py
+  [FILE] Semester-I\Programming in C\v0.69.0 source code\Upsonic-Upsonic-4c81605\tests\unit_tests\rag\vectordb\__init__.py
+  [FILE] Semester-I\Programming in C\v0.69.0 source code\Upsonic-Upsonic-4c81605\tests\unit_tests\rag\vectordb\mock_components.py
+  [FILE] Semester-I\Programming in C\v0.69.0 source code\Upsonic-Upsonic-4c81605\tests\unit_tests\rag\vectordb\test_chroma_knowledge_base.py
+  [FILE] Semester-I\Programming in C\v0.69.0 source code\Upsonic-Upsonic-4c81605\tests\unit_tests\rag\vectordb\test_milvus_knowledge_base.py
+  [FILE] Semester-I\Programming in C\v0.69.0 source code\Upsonic-Upsonic-4c81605\tests\unit_tests\rag\vectordb\test_pgvector_knowledge_base.py
+  [FILE] Semester-I\Programming in C\v0.69.0 source code\Upsonic-Upsonic-4c81605\tests\unit_tests\rag\vectordb\test_qdrant_knowledge_base.py
+  [FILE] Semester-I\Programming in C\v0.69.0 source code\Upsonic-Upsonic-4c81605\tests\unit_tests\rag\vectordb\test_runner.py
+  [FILE] Semester-I\Programming in C\v0.69.0 source code\Upsonic-Upsonic-4c81605\tests\unit_tests\safety_engine\test_cybersecurity_policies.py
+  [FILE] Semester-I\Programming in C\v0.69.0 source code\Upsonic-Upsonic-4c81605\tests\unit_tests\safety_engine\test_data_privacy_policies.py
+  [FILE] Semester-I\Programming in C\v0.69.0 source code\Upsonic-Upsonic-4c81605\tests\unit_tests\safety_engine\test_financial_policies.py
+  [FILE] Semester-I\Programming in C\v0.69.0 source code\Upsonic-Upsonic-4c81605\tests\unit_tests\safety_engine\test_fraud_detection_policies.py
+  [FILE] Semester-I\Programming in C\v0.69.0 source code\Upsonic-Upsonic-4c81605\tests\unit_tests\safety_engine\test_insider_threat_policies.py
+  [FILE] Semester-I\Programming in C\v0.69.0 source code\Upsonic-Upsonic-4c81605\tests\unit_tests\safety_engine\test_legal_policies.py
+  [FILE] Semester-I\Programming in C\v0.69.0 source code\Upsonic-Upsonic-4c81605\tests\unit_tests\safety_engine\test_medical_policies.py
+  [FILE] Semester-I\Programming in C\v0.69.0 source code\Upsonic-Upsonic-4c81605\tests\unit_tests\safety_engine\test_phishing_policies.py
+  [FILE] Semester-I\Programming in C\v0.69.0 source code\Upsonic-Upsonic-4c81605\tests\unit_tests\safety_engine\test_pii_policies.py
+  [FILE] Semester-I\Programming in C\v0.69.0 source code\Upsonic-Upsonic-4c81605\tests\unit_tests\safety_engine\test_profanity_policies.py
+  [FILE] Semester-I\Programming in C\v0.69.0 source code\Upsonic-Upsonic-4c81605\tests\unit_tests\safety_engine\test_safety_engine.py
+  [FILE] Semester-I\Programming in C\v0.69.0 source code\Upsonic-Upsonic-4c81605\tests\unit_tests\safety_engine\test_technical_policies.py
+  [FILE] Semester-I\Programming in C\v0.69.0 source code\Upsonic-Upsonic-4c81605\tests\unit_tests\team\__init__.py
+  [FILE] Semester-I\Programming in C\v0.69.0 source code\Upsonic-Upsonic-4c81605\tests\unit_tests\team\test_context_sharing.py
+  [FILE] Semester-I\Programming in C\v0.69.0 source code\Upsonic-Upsonic-4c81605\tests\unit_tests\team\test_coordinator_setup.py
+  [FILE] Semester-I\Programming in C\v0.69.0 source code\Upsonic-Upsonic-4c81605\tests\unit_tests\team\test_delegation_manager.py
+  [FILE] Semester-I\Programming in C\v0.69.0 source code\Upsonic-Upsonic-4c81605\tests\unit_tests\team\test_result_combiner.py
+  [FILE] Semester-I\Programming in C\v0.69.0 source code\Upsonic-Upsonic-4c81605\tests\unit_tests\team\test_task_assignment.py
+  [FILE] Semester-I\Programming in C\v0.69.0 source code\Upsonic-Upsonic-4c81605\tests\unit_tests\team\test_team.py
+  [FILE] Semester-I\Programming in C\v0.69.0 source code\Upsonic-Upsonic-4c81605\tests\unit_tests\test_agent_streaming.py
+  [FILE] Semester-I\Programming in C\v0.69.0 source code\Upsonic-Upsonic-4c81605\tests\unit_tests\test_do.py
+  [FILE] Semester-I\Programming in C\v0.69.0 source code\Upsonic-Upsonic-4c81605\tests\unit_tests\test_image_input.py
+  [FILE] Semester-I\Programming in C\v0.69.0 source code\Upsonic-Upsonic-4c81605\tests\unit_tests\test_lcel.py
+  [FILE] Semester-I\Programming in C\v0.69.0 source code\Upsonic-Upsonic-4c81605\tests\unit_tests\test_lcel_focused_issues.py
+  [FILE] Semester-I\Programming in C\v0.69.0 source code\Upsonic-Upsonic-4c81605\tests\unit_tests\test_logging_config.py
+  [FILE] Semester-I\Programming in C\v0.69.0 source code\Upsonic-Upsonic-4c81605\tests\unit_tests\test_memory.py
+  [FILE] Semester-I\Programming in C\v0.69.0 source code\Upsonic-Upsonic-4c81605\tests\unit_tests\test_model_selection.py
+  [FILE] Semester-I\Programming in C\v0.69.0 source code\Upsonic-Upsonic-4c81605\tests\unit_tests\test_model_specification.py
+  [FILE] Semester-I\Programming in C\v0.69.0 source code\Upsonic-Upsonic-4c81605\tests\unit_tests\test_pipeline.py
+  [FILE] Semester-I\Programming in C\v0.69.0 source code\Upsonic-Upsonic-4c81605\tests\unit_tests\test_response_format.py
+  [FILE] Semester-I\Programming in C\v0.69.0 source code\Upsonic-Upsonic-4c81605\tests\unit_tests\test_string_context.py
+  [FILE] Semester-I\Programming in C\v0.69.0 source code\Upsonic-Upsonic-4c81605\tests\unit_tests\test_task_function_tool.py
+  [FILE] Semester-I\Programming in C\v0.69.0 source code\Upsonic-Upsonic-4c81605\tests\unit_tests\tools\__init__.py
+  [FILE] Semester-I\Programming in C\v0.69.0 source code\Upsonic-Upsonic-4c81605\tests\unit_tests\tools\test_builtin_tools.py
+  [FILE] Semester-I\Programming in C\v0.69.0 source code\Upsonic-Upsonic-4c81605\tests\unit_tests\tools\test_common_tools_duckduckgo.py
+  [FILE] Semester-I\Programming in C\v0.69.0 source code\Upsonic-Upsonic-4c81605\tests\unit_tests\tools\test_common_tools_financial.py
+  [FILE] Semester-I\Programming in C\v0.69.0 source code\Upsonic-Upsonic-4c81605\tests\unit_tests\tools\test_common_tools_tavily.py
+  [FILE] Semester-I\Programming in C\v0.69.0 source code\Upsonic-Upsonic-4c81605\tests\unit_tests\tools\test_tool_deferred.py
+  [FILE] Semester-I\Programming in C\v0.69.0 source code\Upsonic-Upsonic-4c81605\tests\unit_tests\tools\test_tool_manager.py
+  [FILE] Semester-I\Programming in C\v0.69.0 source code\Upsonic-Upsonic-4c81605\tests\unit_tests\tools\test_tool_orchestration.py
+  [FILE] Semester-I\Programming in C\v0.69.0 source code\Upsonic-Upsonic-4c81605\tests\unit_tests\tools\test_tool_processor.py
+  [FILE] Semester-I\Programming in C\v0.69.0 source code\Upsonic-Upsonic-4c81605\tests\unit_tests\tools\test_tool_schema.py
+  [FILE] Semester-I\Programming in C\v0.69.0 source code\Upsonic-Upsonic-4c81605\tests\unit_tests\tools\test_tool_wrappers.py
+  [FILE] Semester-I\Programming in C\v0.69.0 source code\Upsonic-Upsonic-4c81605\uv.lock
+  [FILE] Semester-I\Proposed Datesheet for B.Tech End Term Practical Examination November-2025.pdf
+  [FILE] Semester-I\Study tracker.mm
+  [FILE] Semester-I\WhatsApp Image 2025-10-22 at 11.15.42_2a2e7d14.jpg
+  [FILE] Syllabus BTECH.pdf
+
+📂 Hidden Files/Folders (16 items)
+----------------------------------------
+  [DIR]  Semester-I\Programming in C\v0.69.0 source code\Upsonic-Upsonic-4c81605\.claude
+  [DIR]  Semester-I\Programming in C\v0.69.0 source code\Upsonic-Upsonic-4c81605\.claude\agents
+  [DIR]  Semester-I\Programming in C\v0.69.0 source code\Upsonic-Upsonic-4c81605\.github
+  [DIR]  Semester-I\Programming in C\v0.69.0 source code\Upsonic-Upsonic-4c81605\.github\ISSUE_TEMPLATE
+  [DIR]  Semester-I\Programming in C\v0.69.0 source code\Upsonic-Upsonic-4c81605\.github\workflows
+  [FILE] Semester-I\Programming in C\v0.69.0 source code\Upsonic-Upsonic-4c81605\.claude\agents\unittest-generator.md
+  [FILE] Semester-I\Programming in C\v0.69.0 source code\Upsonic-Upsonic-4c81605\.github\ISSUE_TEMPLATE\bug_report.md
+  [FILE] Semester-I\Programming in C\v0.69.0 source code\Upsonic-Upsonic-4c81605\.github\ISSUE_TEMPLATE\feature_request.md
+  [FILE] Semester-I\Programming in C\v0.69.0 source code\Upsonic-Upsonic-4c81605\.github\workflows\claude-code-review.yml
+  [FILE] Semester-I\Programming in C\v0.69.0 source code\Upsonic-Upsonic-4c81605\.github\workflows\claude.yml
+  [FILE] Semester-I\Programming in C\v0.69.0 source code\Upsonic-Upsonic-4c81605\.github\workflows\publish.yml
+  [FILE] Semester-I\Programming in C\v0.69.0 source code\Upsonic-Upsonic-4c81605\.github\workflows\test_publisher.yml
+  [FILE] Semester-I\Programming in C\v0.69.0 source code\Upsonic-Upsonic-4c81605\.github\workflows\tests.yml
+  [FILE] Semester-I\Programming in C\v0.69.0 source code\Upsonic-Upsonic-4c81605\.gitignore
+  [FILE] Semester-I\Programming in C\v0.69.0 source code\Upsonic-Upsonic-4c81605\.pre-commit-config.yaml
+  [FILE] Semester-I\Programming in C\v0.69.0 source code\Upsonic-Upsonic-4c81605\.python-version
+
+============================================================
+✨ Scan Complete!
