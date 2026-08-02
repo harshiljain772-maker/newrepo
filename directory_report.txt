@@ -150,9 +150,8 @@ Target Path: D:\BPIT
   [DIR]  Semester-I\Programming in C\v0.69.0 source code\Upsonic-Upsonic-4c81605\tests\unit_tests\team
   [DIR]  Semester-I\Programming in C\v0.69.0 source code\Upsonic-Upsonic-4c81605\tests\unit_tests\tools
 
-📂 Visible Files (846 items)
+📂 Visible Files (845 items)
 ----------------------------------------
-  [FILE] directory_report.txt
   [FILE] Registration Certificate.pdf
   [FILE] Semester-2\AC\5_6113894737654062199.pdf
   [FILE] Semester-2\AC\5_6113894737654062395.pdf
